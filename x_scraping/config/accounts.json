@@ -1,0 +1,16 @@
+{
+    "accounts": [
+        {
+            "username": "YanzeW70600",
+            "password": "Dd381100!",
+            "email": "yanzewu6@gmail.com",
+            "email_password": "dd381100",
+            "cookies": "auth_token=86829ca216123bbce9f859a9f8923226c7f377c8; ct0=b5b2d508ade0526ed5b1f28e1158d74e417dcc3e65cce1c705377c92f3edf2d806a44f76976c652a9110eda498d8adb347549d0b402cb8ae194ec38238f99f443080d8518b681d9060cad913ea46ea11",
+            "note": "Get cookies from browser dev tools - most stable method. Login to X, open DevTools > Application > Cookies, copy the cookie string."
+        }
+    ],
+    "settings": {
+        "delay_between_requests": 2,
+        "max_tweets_per_search": 100
+    }
+}

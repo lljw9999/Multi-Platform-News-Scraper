@@ -1,0 +1,24 @@
+{
+    "accounts": [
+        {
+            "name": "Captured Account",
+            "biz": "MjM5MTM3NTMwNA==",
+            "description": "Captured from mitmproxy on 2026-01-29"
+        }
+    ],
+    "settings": {
+        "delay_between_articles": 8,
+        "delay_between_accounts": 60,
+        "max_articles_per_account": 100,
+        "output_format": "json"
+    },
+    "credentials": {
+        "cookie": "",
+        "appmsg_token": "",
+        "x_wechat_uin": "OTAxMDgzMzM0",
+        "x_wechat_key": "daf9bdc5abc4e8d04205c64a6f3855dfd50f0d60ea646c621bcb43fae0b93eefa03ac0cf434a2456650188073b70b4be56f1a6d38f1cfccc11c1a5e51ec7256d387ada5728e7b3b52157a56c0219dc54c76f61495ba5d1e4fd32857dea034e5e38fefd9475040bbe6d854de80ad0c08c363b4cd4c1274a532833fcd0495d45e6",
+        "pass_ticket": "Tt9XytA6r%2BiF%2BcTH71o0%2BY1VIp5a3qJgHLZg8kLP2zfVEPmPzk0R9GxgElxGoF23",
+        "exportkey": "n_ChQIAhIQZp9LQDUXf9ab6cuNF5ePchLfAQIE97dBBAEAAAAAAP3XOBkbYgUAAAAOpnltbLcz9gKNyK89dVj0hwNoyvRzg2OoeEBcSmmKzcUd0dObX%2B9mSCPBfo5PmFvhNkCopaEeHGnCLCcHnJZ9QT1gpJOtVepdhajOhlc%2FZ3OLg%2BNNNaiJR3K8LQRxm0f0ibNRYOQGfMmAALTIhEzj5%2Fn9PJ96egja1hCrxLBmk%2F58ICVUtVo7CRrxY8nUqoovtMnK1qOchBAX9X%2FVCkeDcG%2BFGBE4gKLVLtgCbSspyxTmwJAv8cfaO1OX6dtCUmfXYrhlb3J3Lbc%3D",
+        "note": "WeChat now uses x-wechat-uin and x-wechat-key headers instead of traditional cookies"
+    }
+}

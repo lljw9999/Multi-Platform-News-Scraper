@@ -1,0 +1,1494 @@
+{
+  "scraped_at": "2026-01-29T19:13:02.975160",
+  "source": "HackerNews",
+  "sections": {
+    "top_stories": [
+      {
+        "id": 46814743,
+        "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+        "url": "https://redgamingtech.com/playstation-2-recompilation-project-is-absolutely-incredible/",
+        "author": "croes",
+        "score": 213,
+        "comments": 82,
+        "timestamp": "2026-01-29T13:55:38"
+      },
+      {
+        "id": 46812933,
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+        "author": "meetpateltech",
+        "score": 404,
+        "comments": 207,
+        "timestamp": "2026-01-29T12:02:39"
+      },
+      {
+        "id": 46817813,
+        "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
+        "url": "https://grid.space/stem/",
+        "author": "cyrusradfar",
+        "score": 46,
+        "comments": 21,
+        "timestamp": "2026-01-29T17:38:57"
+      },
+      {
+        "id": 46810282,
+        "title": "Claude Code daily benchmarks for degradation tracking",
+        "url": "https://marginlab.ai/trackers/claude-code/",
+        "author": "qwesr123",
+        "score": 508,
+        "comments": 258,
+        "timestamp": "2026-01-29T08:59:07"
+      },
+      {
+        "id": 46812159,
+        "title": "Drug trio found to block tumour resistance in pancreatic cancer",
+        "url": "https://www.drugtargetreview.com/news/192714/drug-trio-found-to-block-tumour-resistance-in-pancreatic-cancer/",
+        "author": "axiomdata316",
+        "score": 202,
+        "comments": 100,
+        "timestamp": "2026-01-29T11:11:04"
+      },
+      {
+        "id": 46815297,
+        "title": "Flameshot",
+        "url": "https://github.com/flameshot-org/flameshot",
+        "author": "OsrsNeedsf2P",
+        "score": 97,
+        "comments": 37,
+        "timestamp": "2026-01-29T14:30:35"
+      },
+      {
+        "id": 46735023,
+        "title": "Where to Sleep in LAX",
+        "url": "https://cadence.moe/blog/2025-12-30-where-to-sleep-in-lax",
+        "author": "surprisetalk",
+        "score": 41,
+        "comments": 28,
+        "timestamp": "2026-01-23T12:17:40"
+      },
+      {
+        "id": 46809708,
+        "title": "Compressed Agents.md > Agent Skills",
+        "url": "https://vercel.com/blog/agents-md-outperforms-skills-in-our-agent-evals",
+        "author": "maximedupre",
+        "score": 102,
+        "comments": 55,
+        "timestamp": "2026-01-29T08:08:11"
+      },
+      {
+        "id": 46816357,
+        "title": "The WiFi only works when it's raining (2024)",
+        "url": "https://predr.ag/blog/wifi-only-works-when-its-raining/",
+        "author": "epicalex",
+        "score": 37,
+        "comments": 13,
+        "timestamp": "2026-01-29T15:47:36"
+      },
+      {
+        "id": 46812608,
+        "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+        "url": null,
+        "author": "Haakam21",
+        "score": 109,
+        "comments": 123,
+        "timestamp": "2026-01-29T11:42:33"
+      },
+      {
+        "id": 46817764,
+        "title": "Cutting Up Curved Things (With Math)",
+        "url": "https://campedersen.com/tessellation",
+        "author": "ecto",
+        "score": 11,
+        "comments": 1,
+        "timestamp": "2026-01-29T17:34:54"
+      },
+      {
+        "id": 46810027,
+        "title": "A lot of population numbers are fake",
+        "url": "https://davidoks.blog/p/a-lot-of-population-numbers-are-fake",
+        "author": "bookofjoe",
+        "score": 235,
+        "comments": 216,
+        "timestamp": "2026-01-29T08:36:54"
+      },
+      {
+        "id": 46752754,
+        "title": "The Value of Things",
+        "url": "https://journal.stuffwithstuff.com/2026/01/24/the-value-of-things/",
+        "author": "vinhnx",
+        "score": 48,
+        "comments": 20,
+        "timestamp": "2026-01-25T05:31:14"
+      },
+      {
+        "id": 46818154,
+        "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+        "url": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
+        "author": "jbmilgrom",
+        "score": 6,
+        "comments": 3,
+        "timestamp": "2026-01-29T18:06:34"
+      },
+      {
+        "id": 46814614,
+        "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+        "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+        "author": "MBCook",
+        "score": 263,
+        "comments": 129,
+        "timestamp": "2026-01-29T13:48:09"
+      },
+      {
+        "id": 46811664,
+        "title": "Is the RAM shortage killing small VPS hosts?",
+        "url": "https://www.fourplex.net/2026/01/29/is-the-ram-shortage-killing-small-vps-hosts/",
+        "author": "neelc",
+        "score": 101,
+        "comments": 145,
+        "timestamp": "2026-01-29T10:42:57"
+      },
+      {
+        "id": 46810401,
+        "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+        "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+        "author": "voxadam",
+        "score": 277,
+        "comments": 495,
+        "timestamp": "2026-01-29T09:08:56"
+      },
+      {
+        "id": 46758868,
+        "title": "The passive in English (2011)",
+        "url": "https://languagelog.ldc.upenn.edu/nll/?p=2922",
+        "author": "penetralium",
+        "score": 7,
+        "comments": 2,
+        "timestamp": "2026-01-25T17:03:24"
+      },
+      {
+        "id": 46729139,
+        "title": "EmulatorJS",
+        "url": "https://github.com/EmulatorJS/EmulatorJS",
+        "author": "avaer",
+        "score": 84,
+        "comments": 13,
+        "timestamp": "2026-01-23T01:26:40"
+      },
+      {
+        "id": 46812892,
+        "title": "Reflex (YC W23) Senior Software Engineer Infra",
+        "url": "https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra",
+        "author": "apetuskey",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T12:00:42"
+      },
+      {
+        "id": 46814569,
+        "title": "My Mom and Dr. DeepSeek (2025)",
+        "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+        "author": "kieto",
+        "score": 114,
+        "comments": 74,
+        "timestamp": "2026-01-29T13:45:27"
+      },
+      {
+        "id": 46812285,
+        "title": "Show HN: Kolibri, a DIY music club in Sweden",
+        "url": "https://kolibrinkpg.com/",
+        "author": "EastLondonCoder",
+        "score": 28,
+        "comments": 7,
+        "timestamp": "2026-01-29T11:19:19"
+      },
+      {
+        "id": 46810828,
+        "title": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+        "url": "https://blog.cloudflare.com/moltworker-self-hosted-ai-agent/",
+        "author": "ghostwriternr",
+        "score": 139,
+        "comments": 46,
+        "timestamp": "2026-01-29T09:43:07"
+      },
+      {
+        "id": 46810904,
+        "title": "How to choose colors for your CLI applications (2023)",
+        "url": "https://blog.xoria.org/terminal-colors/",
+        "author": "kruuuder",
+        "score": 142,
+        "comments": 80,
+        "timestamp": "2026-01-29T09:49:08"
+      },
+      {
+        "id": 46816539,
+        "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+        "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+        "author": "rd",
+        "score": 126,
+        "comments": 187,
+        "timestamp": "2026-01-29T16:02:31"
+      },
+      {
+        "id": 46810950,
+        "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\"",
+        "url": "https://kerkour.com/turso-sqlite",
+        "author": "unsolved73",
+        "score": 97,
+        "comments": 92,
+        "timestamp": "2026-01-29T09:51:56"
+      },
+      {
+        "id": 46751460,
+        "title": "Box64 Expands into RISC-V and LoongArch territory",
+        "url": "https://boilingsteam.com/box64-expands-into-risc-v-and-loong-arch-territory/",
+        "author": "ekianjo",
+        "score": 30,
+        "comments": 2,
+        "timestamp": "2026-01-25T01:51:49"
+      },
+      {
+        "id": 46815527,
+        "title": "The Hallucination Defense",
+        "url": "https://niyikiza.com/posts/hallucination-defense/",
+        "author": "niyikiza",
+        "score": 36,
+        "comments": 107,
+        "timestamp": "2026-01-29T14:45:12"
+      },
+      {
+        "id": 46812173,
+        "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+        "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+        "author": "randycupertino",
+        "score": 379,
+        "comments": 195,
+        "timestamp": "2026-01-29T11:12:19"
+      },
+      {
+        "id": 46760546,
+        "title": "Usenet personality",
+        "url": "https://en.wikipedia.org/wiki/Usenet_personality",
+        "author": "mellosouls",
+        "score": 64,
+        "comments": 39,
+        "timestamp": "2026-01-25T20:09:14"
+      },
+      {
+        "id": 46813834,
+        "title": "AI's impact on engineering jobs may be different than expected",
+        "url": "https://semiengineering.com/ais-impact-on-engineering-jobs-may-be-different-than-initial-projections/",
+        "author": "rbanffy",
+        "score": 78,
+        "comments": 147,
+        "timestamp": "2026-01-29T13:00:10"
+      },
+      {
+        "id": 46817963,
+        "title": "Employers, please use postmarked letters for job applications",
+        "url": "https://soapstone.mradford.com/employers-use-letters-for-job-applications/",
+        "author": "MattyRad",
+        "score": 6,
+        "comments": 2,
+        "timestamp": "2026-01-29T17:49:40"
+      },
+      {
+        "id": 46741602,
+        "title": "C++ Modules Are Here to Stay",
+        "url": "https://faresbakhit.github.io/e/cpp-modules/",
+        "author": "faresahmed",
+        "score": 72,
+        "comments": 96,
+        "timestamp": "2026-01-24T01:49:05"
+      },
+      {
+        "id": 46816228,
+        "title": "Apple buys Israeli startup Q.ai",
+        "url": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/",
+        "author": "ishener",
+        "score": 83,
+        "comments": 32,
+        "timestamp": "2026-01-29T15:37:01"
+      },
+      {
+        "id": 46811762,
+        "title": "Heating homes with the largest particle accelerator",
+        "url": "https://home.cern/news/news/cern/heating-homes-worlds-largest-particle-accelerator",
+        "author": "elashri",
+        "score": 64,
+        "comments": 21,
+        "timestamp": "2026-01-29T10:49:04"
+      },
+      {
+        "id": 46814991,
+        "title": "Networks Hold the Key to a Decades-Old Problem About Waves",
+        "url": "https://www.quantamagazine.org/networks-hold-the-key-to-a-decades-old-problem-about-waves-20260128/",
+        "author": "makira",
+        "score": 18,
+        "comments": 1,
+        "timestamp": "2026-01-29T14:10:54"
+      },
+      {
+        "id": 46806773,
+        "title": "Europe’s next-generation weather satellite sends back first images",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+        "author": "saubeidl",
+        "score": 646,
+        "comments": 91,
+        "timestamp": "2026-01-29T02:07:17"
+      },
+      {
+        "id": 46776752,
+        "title": "Automating Image Compression",
+        "url": "https://www.ramijames.com/thoughts/on-automating-image-compression",
+        "author": "ramijames",
+        "score": 12,
+        "comments": 2,
+        "timestamp": "2026-01-27T02:53:06"
+      },
+      {
+        "id": 46772132,
+        "title": "Making niche solutions is the point",
+        "url": "https://ntietz.com/blog/making-niche-solutions-is-the-point/",
+        "author": "evakhoury",
+        "score": 79,
+        "comments": 27,
+        "timestamp": "2026-01-26T16:56:05"
+      },
+      {
+        "id": 46817187,
+        "title": "EFF to Close Friday in Solidarity with National Shutdown",
+        "url": "https://www.eff.org/deeplinks/2026/01/eff-close-friday-solidarity-national-shutdown",
+        "author": "8organicbits",
+        "score": 47,
+        "comments": 26,
+        "timestamp": "2026-01-29T16:51:52"
+      },
+      {
+        "id": 46805665,
+        "title": "We can’t send mail farther than 500 miles (2002)",
+        "url": "https://web.mit.edu/jemorris/humor/500-miles",
+        "author": "giancarlostoro",
+        "score": 636,
+        "comments": 104,
+        "timestamp": "2026-01-28T22:58:33"
+      },
+      {
+        "id": 46815899,
+        "title": "Agent-shell: A native Emacs buffer to interact with LLM agents powered by ACP",
+        "url": "https://github.com/xenodium/agent-shell",
+        "author": "trelane",
+        "score": 20,
+        "comments": 3,
+        "timestamp": "2026-01-29T15:11:26"
+      },
+      {
+        "id": 46811588,
+        "title": "Benchmarking OpenTelemetry: Can AI trace your failed login?",
+        "url": "https://quesma.com/blog/introducing-otel-bench/",
+        "author": "stared",
+        "score": 138,
+        "comments": 80,
+        "timestamp": "2026-01-29T10:37:21"
+      },
+      {
+        "id": 46810337,
+        "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
+        "url": "https://ipsj.ixsq.nii.ac.jp/records/229345",
+        "author": "mci",
+        "score": 35,
+        "comments": 9,
+        "timestamp": "2026-01-29T09:03:12"
+      },
+      {
+        "id": 46801419,
+        "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+        "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+        "author": "pier25",
+        "score": 1003,
+        "comments": 844,
+        "timestamp": "2026-01-28T15:59:30"
+      },
+      {
+        "id": 46810536,
+        "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
+        "url": "https://www.breakmeifyoucan.com/",
+        "author": "noproto",
+        "score": 44,
+        "comments": 34,
+        "timestamp": "2026-01-29T09:20:21"
+      },
+      {
+        "id": 46779922,
+        "title": "Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG",
+        "url": "https://playground.shaped.ai",
+        "author": "tullie",
+        "score": 70,
+        "comments": 21,
+        "timestamp": "2026-01-27T08:54:09"
+      },
+      {
+        "id": 46812909,
+        "title": "Show HN: Autonomous recovery for distributed training jobs",
+        "url": "https://docs.tensorpool.dev/features/agent",
+        "author": "tsvoboda",
+        "score": 7,
+        "comments": 3,
+        "timestamp": "2026-01-29T12:01:31"
+      },
+      {
+        "id": 46801004,
+        "title": "Waabi raises $1B and expands into robotaxis with Uber",
+        "url": "https://techcrunch.com/2026/01/28/waabi-raises-1b-and-expands-into-robotaxis-with-uber/",
+        "author": "aanet",
+        "score": 4,
+        "comments": 0,
+        "timestamp": "2026-01-28T15:22:33"
+      },
+      {
+        "id": 46814828,
+        "title": "Gourmand Syndrome",
+        "url": "https://en.wikipedia.org/wiki/Gourmand_syndrome",
+        "author": "ag8",
+        "score": 18,
+        "comments": 9,
+        "timestamp": "2026-01-29T14:01:02"
+      }
+    ],
+    "best_stories": [
+      {
+        "id": 46795864,
+        "title": "Microsoft forced me to switch to Linux",
+        "url": "https://www.himthe.dev/blog/microsoft-to-linux",
+        "author": "bobsterlobster",
+        "score": 1817,
+        "comments": 1447,
+        "timestamp": "2026-01-28T09:28:21"
+      },
+      {
+        "id": 46801419,
+        "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+        "url": "https://www.macrumors.com/2026/01/28/patreon-apple-tax/",
+        "author": "pier25",
+        "score": 1003,
+        "comments": 844,
+        "timestamp": "2026-01-28T15:59:30"
+      },
+      {
+        "id": 46808251,
+        "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants",
+        "url": "https://blog.ncase.me/on-depression/",
+        "author": "mijailt",
+        "score": 825,
+        "comments": 588,
+        "timestamp": "2026-01-29T05:35:00"
+      },
+      {
+        "id": 46796745,
+        "title": "Amazon cuts 16k jobs",
+        "url": "https://www.reuters.com/legal/litigation/amazon-cuts-16000-jobs-globally-broader-restructuring-2026-01-28/",
+        "author": "DGAP",
+        "score": 677,
+        "comments": 950,
+        "timestamp": "2026-01-28T10:39:11"
+      },
+      {
+        "id": 46806773,
+        "title": "Europe’s next-generation weather satellite sends back first images",
+        "url": "https://www.esa.int/Applications/Observing_the_Earth/Meteorological_missions/meteosat_third_generation/Europe_s_next-generation_weather_satellite_sends_back_first_images",
+        "author": "saubeidl",
+        "score": 646,
+        "comments": 91,
+        "timestamp": "2026-01-29T02:07:17"
+      },
+      {
+        "id": 46803356,
+        "title": "Please don't say mean things about the AI I just invested a billion dollars in",
+        "url": "https://www.mcsweeneys.net/articles/please-dont-say-mean-things-about-the-ai-that-i-just-invested-a-billion-dollars-in",
+        "author": "randycupertino",
+        "score": 640,
+        "comments": 295,
+        "timestamp": "2026-01-28T18:36:23"
+      },
+      {
+        "id": 46805665,
+        "title": "We can’t send mail farther than 500 miles (2002)",
+        "url": "https://web.mit.edu/jemorris/humor/500-miles",
+        "author": "giancarlostoro",
+        "score": 636,
+        "comments": 104,
+        "timestamp": "2026-01-28T22:58:33"
+      },
+      {
+        "id": 46802067,
+        "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+        "url": "https://alecmuffett.com/article/143548",
+        "author": "wubin",
+        "score": 537,
+        "comments": 144,
+        "timestamp": "2026-01-28T16:50:47"
+      },
+      {
+        "id": 46802867,
+        "title": "Tesla ending Models S and X production",
+        "url": "https://www.cnbc.com/2026/01/28/tesla-ending-model-s-x-production.html",
+        "author": "keyboardJones",
+        "score": 528,
+        "comments": 1094,
+        "timestamp": "2026-01-28T17:53:54"
+      },
+      {
+        "id": 46795908,
+        "title": "Airfoil (2024)",
+        "url": "https://ciechanow.ski/airfoil/",
+        "author": "brk",
+        "score": 517,
+        "comments": 59,
+        "timestamp": "2026-01-28T09:32:30"
+      },
+      {
+        "id": 46810282,
+        "title": "Claude Code daily benchmarks for degradation tracking",
+        "url": "https://marginlab.ai/trackers/claude-code/",
+        "author": "qwesr123",
+        "score": 508,
+        "comments": 258,
+        "timestamp": "2026-01-29T08:59:07"
+      },
+      {
+        "id": 46794365,
+        "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+        "url": "https://www.bmj.com/content/392/bmj.s168",
+        "author": "dberhane",
+        "score": 443,
+        "comments": 255,
+        "timestamp": "2026-01-28T07:18:12"
+      },
+      {
+        "id": 46812933,
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "url": "https://blog.google/innovation-and-ai/models-and-research/google-deepmind/project-genie/",
+        "author": "meetpateltech",
+        "score": 404,
+        "comments": 207,
+        "timestamp": "2026-01-29T12:02:39"
+      },
+      {
+        "id": 46803119,
+        "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+        "url": "https://mahadk.com/posts/ai-skills-hub",
+        "author": "JustSkyfall",
+        "score": 390,
+        "comments": 143,
+        "timestamp": "2026-01-28T18:16:12"
+      },
+      {
+        "id": 46804828,
+        "title": "Mermaid ASCII: Render Mermaid diagrams in your terminal",
+        "url": "https://github.com/lukilabs/beautiful-mermaid",
+        "author": "mellosouls",
+        "score": 384,
+        "comments": 66,
+        "timestamp": "2026-01-28T21:08:40"
+      },
+      {
+        "id": 46812173,
+        "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+        "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+        "author": "randycupertino",
+        "score": 379,
+        "comments": 195,
+        "timestamp": "2026-01-29T11:12:19"
+      },
+      {
+        "id": 46793693,
+        "title": "Show HN: The HN Arcade",
+        "url": "https://andrewgy8.github.io/hnarcade/",
+        "author": "yuppiepuppie",
+        "score": 338,
+        "comments": 112,
+        "timestamp": "2026-01-28T05:50:32"
+      },
+      {
+        "id": 46792370,
+        "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+        "url": "https://www.asml.com/en/news/press-releases/2026/strengthening-focus-on-engineering-and-innovation",
+        "author": "dep_b",
+        "score": 333,
+        "comments": 348,
+        "timestamp": "2026-01-28T03:02:42"
+      },
+      {
+        "id": 46799304,
+        "title": "That's not how email works",
+        "url": "https://danq.me/2026/01/28/hsbc-dont-understand-email/",
+        "author": "HotGarbage",
+        "score": 301,
+        "comments": 180,
+        "timestamp": "2026-01-28T13:12:02"
+      },
+      {
+        "id": 46809069,
+        "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+        "url": "https://bayramovanar.substack.com/p/tech-market-is-fucked-up",
+        "author": "Bayramovanar",
+        "score": 293,
+        "comments": 204,
+        "timestamp": "2026-01-29T07:03:13"
+      },
+      {
+        "id": 46790740,
+        "title": "Android’s desktop interface leaks",
+        "url": "https://9to5google.com/2026/01/27/android-desktop-leak/",
+        "author": "thunderbong",
+        "score": 281,
+        "comments": 370,
+        "timestamp": "2026-01-27T22:34:45"
+      },
+      {
+        "id": 46810401,
+        "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+        "url": "https://techcrunch.com/2026/01/29/waymo-robotaxi-hits-a-child-near-an-elementary-school-in-santa-monica/",
+        "author": "voxadam",
+        "score": 277,
+        "comments": 495,
+        "timestamp": "2026-01-29T09:08:56"
+      },
+      {
+        "id": 46789961,
+        "title": "Super Monkey Ball ported to a website",
+        "url": "https://monkeyball-online.pages.dev/",
+        "author": "rebasedoctopus",
+        "score": 277,
+        "comments": 81,
+        "timestamp": "2026-01-27T20:44:25"
+      },
+      {
+        "id": 46797594,
+        "title": "Oban, the job processing framework from Elixir, has come to Python",
+        "url": "https://www.dimamik.com/posts/oban_py/",
+        "author": "dimamik",
+        "score": 265,
+        "comments": 103,
+        "timestamp": "2026-01-28T11:32:00"
+      },
+      {
+        "id": 46814614,
+        "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+        "url": "https://arstechnica.com/security/2026/01/county-pays-600000-to-pentesters-it-arrested-for-assessing-courthouse-security/",
+        "author": "MBCook",
+        "score": 263,
+        "comments": 129,
+        "timestamp": "2026-01-29T13:48:09"
+      },
+      {
+        "id": 46791742,
+        "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+        "url": "https://engineering.fb.com/2026/01/27/security/rust-at-scale-security-whatsapp/",
+        "author": "ubj",
+        "score": 259,
+        "comments": 140,
+        "timestamp": "2026-01-28T01:21:07"
+      },
+      {
+        "id": 46803229,
+        "title": "In 6 violent encounters, evidence contradicts immigration officials' narratives",
+        "url": "https://www.reuters.com/world/us/evidence-contradicts-trump-immigration-officials-accounts-violent-encounters-2026-01-27/",
+        "author": "petethomas",
+        "score": 247,
+        "comments": 118,
+        "timestamp": "2026-01-28T18:25:41"
+      },
+      {
+        "id": 46814089,
+        "title": "Tesla is committing automotive suicide",
+        "url": "https://electrek.co/2026/01/29/tesla-committing-automotive-suicide/",
+        "author": "jethronethro",
+        "score": 239,
+        "comments": 283,
+        "timestamp": "2026-01-29T13:16:45"
+      },
+      {
+        "id": 46798402,
+        "title": "Mousefood – Build embedded terminal UIs for microcontrollers",
+        "url": "https://github.com/ratatui/mousefood",
+        "author": "orhunp_",
+        "score": 236,
+        "comments": 47,
+        "timestamp": "2026-01-28T12:20:31"
+      },
+      {
+        "id": 46792194,
+        "title": "Make.ts",
+        "url": "https://matklad.github.io/2026/01/27/make-ts.html",
+        "author": "ingve",
+        "score": 236,
+        "comments": 128,
+        "timestamp": "2026-01-28T02:35:51"
+      }
+    ],
+    "new_stories": [
+      {
+        "id": 46818868,
+        "title": "AI diagram looks great and nobody will read it",
+        "url": "https://jpcaparas.medium.com/your-ai-diagram-looks-great-and-nobody-will-read-it-f1e34fe9c8f1",
+        "author": "birdculture",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:12:52"
+      },
+      {
+        "id": 46818843,
+        "title": "Nvidia helped DeepSeek hone AI models later used by China's military",
+        "url": "https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/",
+        "author": "DustinEchoes",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:10:44"
+      },
+      {
+        "id": 46818826,
+        "title": "Major grid operator for Pa., East Coast predicts energy shortfall by mid-2027",
+        "url": "https://www.spotlightpa.org/news/2026/01/pjm-grid-short-fall-power-plants-data-centers-environment/",
+        "author": "bikenaga",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:08:17"
+      },
+      {
+        "id": 46818815,
+        "title": "A Mild Take on Coding Agents",
+        "url": "https://meelo.substack.com/p/a-mild-take-on-coding-agents",
+        "author": "milowata",
+        "score": 2,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:07:09"
+      },
+      {
+        "id": 46818814,
+        "title": "Show HN: A constraints based IaC decision tool",
+        "url": "https://whichiac.com",
+        "author": "batemanchris",
+        "score": 1,
+        "comments": 1,
+        "timestamp": "2026-01-29T19:07:09"
+      },
+      {
+        "id": 46818807,
+        "title": "Common Lisp Extension for Zed",
+        "url": "https://github.com/etyurkin/zed-cl",
+        "author": "mike_ivanov",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:06:40"
+      },
+      {
+        "id": 46818804,
+        "title": "Search and browse your AI coding sessions in one place",
+        "url": "https://github.com/kmckiern/agent-sessions",
+        "author": "languid-photic",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:06:10"
+      },
+      {
+        "id": 46818792,
+        "title": "The K-Shaped Future of Software Engineering",
+        "url": "https://twitter.com/ian_dot_so/status/2013316676637294890",
+        "author": "mji",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:05:11"
+      },
+      {
+        "id": 46818762,
+        "title": "Claude Code hacks its way to success",
+        "url": "https://www.theeggeadventure.com/2026/01/recovering-ssh-on-a-headless-raspberry-pi-through-a-privileged-docker-container/",
+        "author": "brother_corp",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:01:35"
+      },
+      {
+        "id": 46818760,
+        "title": "Ask HN: How do you measure AI adoption within your teams? (Best Practices)",
+        "url": null,
+        "author": "nemath",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T19:01:23"
+      },
+      {
+        "id": 46818742,
+        "title": "Show HN: LSP and Grammar for HTML and Mustache Templates",
+        "url": "https://github.com/reteps/tree-sitter-htmlmustache",
+        "author": "spicypete",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:59:40"
+      },
+      {
+        "id": 46818734,
+        "title": "Show HN: A novel pattern for handling in-flight requests in distributed caches",
+        "url": "https://www.infoq.com/articles/durable-objects-handle-inflight-requests/",
+        "author": "gkoos",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:58:51"
+      },
+      {
+        "id": 46818731,
+        "title": "Trump voters support military intervention in more countries",
+        "url": "https://www.politico.com/news/2026/01/28/trump-is-threatening-strike-iran-his-supporters-wouldnt-mind-00752821",
+        "author": "doctor_radium",
+        "score": 3,
+        "comments": 2,
+        "timestamp": "2026-01-29T18:58:39"
+      },
+      {
+        "id": 46818710,
+        "title": "Reframing Agents: Why I Don't Think Agents Are the Future of AI Software",
+        "url": "https://valtetu.framer.website/blog/reframing-agents",
+        "author": "valtetu",
+        "score": 2,
+        "comments": 1,
+        "timestamp": "2026-01-29T18:57:07"
+      },
+      {
+        "id": 46818699,
+        "title": "SeqMem – New update. Specified details. V2",
+        "url": "https://drive.google.com/file/d/1PgAdnsFrHaataORGucauLjLbn-jkLp42/view?usp=drive_link",
+        "author": "goofgef",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:56:15"
+      },
+      {
+        "id": 46818676,
+        "title": "Haskell Hangman (Surveillance)",
+        "url": "https://www.youtube.com/watch?v=bGHMET8knv4",
+        "author": "barrister",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:54:47"
+      },
+      {
+        "id": 46818669,
+        "title": "Elon Musk's SpaceX, Tesla, and xAI in talks to merge, according to reports",
+        "url": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/",
+        "author": "gfortaine",
+        "score": 4,
+        "comments": 2,
+        "timestamp": "2026-01-29T18:54:05"
+      },
+      {
+        "id": 46818666,
+        "title": "In car safety, why some companies merely meet a standard and others exceed it",
+        "url": "https://anderson-review.ucla.edu/in-car-safety-why-some-companies-merely-meet-a-standard-and-others-exceed-it/",
+        "author": "hhs",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:53:50"
+      },
+      {
+        "id": 46818650,
+        "title": "I Hope This Email Finds You Before I Do",
+        "url": "https://www.lastweekinaws.com/blog/i-hope-this-email-finds-you-before-i-do/",
+        "author": "dabinat",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:52:37"
+      },
+      {
+        "id": 46818641,
+        "title": "Nvidia PersonaPlex: Natural Conversational AI with Any Role and Voice",
+        "url": "https://research.nvidia.com/labs/adlr/personaplex/",
+        "author": "smusamashah",
+        "score": 2,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:51:54"
+      },
+      {
+        "id": 46818635,
+        "title": "A lock-free, high-performance IPC channel inspired by Firedancer's Tango",
+        "url": "https://crates.io/crates/rust-tango",
+        "author": "amineelqaraoui",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:51:13"
+      },
+      {
+        "id": 46818623,
+        "title": "Show HN: GitViral – Turn technical READMEs into social media threads",
+        "url": "https://git-viral.vercel.app",
+        "author": "Helios999",
+        "score": 1,
+        "comments": 1,
+        "timestamp": "2026-01-29T18:50:35"
+      },
+      {
+        "id": 46818622,
+        "title": "Transport for London Interchange Signs Standard [pdf]",
+        "url": "https://content.tfl.gov.uk/tfl-interchange-signs-standard.pdf",
+        "author": "susam",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:50:27"
+      },
+      {
+        "id": 46818608,
+        "title": "Original Oil Painting",
+        "url": "https://twitter.com/i/status/1902923432997658918",
+        "author": "barrister",
+        "score": 1,
+        "comments": 2,
+        "timestamp": "2026-01-29T18:49:27"
+      },
+      {
+        "id": 46818603,
+        "title": "RlmUI- the HTML/CSS User Interface Library",
+        "url": "https://github.com/mikke89/RmlUi",
+        "author": "kreco",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:49:05"
+      },
+      {
+        "id": 46818593,
+        "title": "Bluesky 2025 Transparency Report",
+        "url": "https://bsky.social/about/blog/01-29-2026-transparency-report-2025",
+        "author": "emschwartz",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:48:14"
+      },
+      {
+        "id": 46818583,
+        "title": "How do you surface real confidence before execution?",
+        "url": "https://www.cognu.app/confidence-check",
+        "author": "anticlickwise",
+        "score": 1,
+        "comments": 2,
+        "timestamp": "2026-01-29T18:47:29"
+      },
+      {
+        "id": 46818582,
+        "title": "Sasha",
+        "url": "https://twitter.com/i/status/1962525429530525967",
+        "author": "barrister",
+        "score": 1,
+        "comments": 1,
+        "timestamp": "2026-01-29T18:47:28"
+      },
+      {
+        "id": 46818573,
+        "title": "Simpler Declarative Project Setup with Mill 1.1.0",
+        "url": "https://mill-build.org/blog/17-simpler-jvm-mill-110.html",
+        "author": "lihaoyi",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:46:25"
+      },
+      {
+        "id": 46818572,
+        "title": "OpenHands Index of Coding Agent Performance",
+        "url": "https://index.openhands.dev",
+        "author": "rbren",
+        "score": 1,
+        "comments": 0,
+        "timestamp": "2026-01-29T18:46:15"
+      }
+    ],
+    "ask_hn": [
+      {
+        "id": 46814599,
+        "title": "Ask HN: Junior getting lost",
+        "url": null,
+        "author": "TheRegularOne",
+        "score": 18,
+        "comments": 19,
+        "timestamp": "2026-01-29T13:47:43",
+        "text": "Hello those who still read forums.<p>I have recently graduated from a college and started working as a junior dev (trying to consume as much knowledge from senior colleagues as I can now) and it seems that the real world is kind of a different story compared to the college practice.<p>In the college we&#x27;ve been taught about design patterns and all these responsibilities like domain, application, infrastructure, UI. Domain should  never depend on infrastructure or application layer and so on. But the projects I got have domain that depend on infrastructure and another one where application has a reference directly to infrastructure and been told that this is correct implementation... doh..<p>I think I was kind of a good at listening for the lectures, but I now am doubting about, whether it was worth learning stuff at all lol since it&#x27;s so controversial out there. I am, of course, in no position to question senior dev, but what do you guys think - is it really normal that all the college so called &quot;best practices&quot; go straight to the trash bin or am I just misunderstanding the real-work-like context?"
+      },
+      {
+        "id": 46814014,
+        "title": "Ask HN: Is archive.is currently broken for WSJ links?",
+        "url": null,
+        "author": "bigwheels",
+        "score": 4,
+        "comments": 2,
+        "timestamp": "2026-01-29T13:10:45",
+        "text": "For the past couple of days any link I submit stays on the &quot;Loading&quot; spinner and never seems to make it into the queue, and it seems like HN submissions for new articles aren&#x27;t getting any archive links posted."
+      },
+      {
+        "id": 46807308,
+        "title": "Ask HN: How far has \"vibe coding\" come?",
+        "url": null,
+        "author": "pigon1002",
+        "score": 8,
+        "comments": 20,
+        "timestamp": "2026-01-29T03:29:38",
+        "text": "I’m trying to understand where “vibe coding” realistically stands today.<p>The project I’m currently working on is getting close to 60k lines of code, with fairly complex business logic. From what I’ve heard, at this scale only a few tools (like Claude’s desktop app) are genuinely helpful, so I haven’t experimented much with other AI coding services.<p>At the same time, I keep seeing posts about people building 20k lines of code and launching a SaaS in a single 40-hour weekend. That’s made me question whether I’m being overly cautious, or just operating under outdated assumptions.<p>I already rely on AI quite a bit, and one clear benefit is that I now understand parts of the codebase that I previously wrote without fully grasping. Still, at my current pace, it feels like I’ll need several more months of development, followed by several more months of testing, before this can become a real production service. And that testing doesn’t feel optional.<p>Meanwhile, products that are described as being “vibe coded” don’t seem to be getting particularly negative evaluations.<p>So I’m wondering how people here think about this now.\nIs “you don’t really understand the code, so it’ll hurt you later” still a meaningful criticism?\nOr are we reaching a point where the default approach to building software itself needs to change?<p>I’d especially appreciate perspectives from people working on larger or more complex systems."
+      },
+      {
+        "id": 46778461,
+        "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
+        "url": null,
+        "author": "abkt",
+        "score": 100,
+        "comments": 67,
+        "timestamp": "2026-01-27T06:12:30",
+        "text": "I want to learn Assembly to make games on the Apple II. What are the old books to learn 6502 Assembly and the Apple II itself (memory, screen management) ? And is it absolutely necessary to learn BASIC before Assembly ?"
+      },
+      {
+        "id": 46772655,
+        "title": "Ask HN: Who do you follow via RSS feed?",
+        "url": null,
+        "author": "znpy",
+        "score": 67,
+        "comments": 51,
+        "timestamp": "2026-01-26T17:41:36",
+        "text": "Hello there!<p>I just set up TinyTinyRSS (https:&#x2F;&#x2F;tt-rss.org&#x2F;) at home and I&#x27;m looking into interesting things to read as well as people&#x2F;website publishing interesting stuff.<p>This, among the other things, to reduce the daily (doom)scrolling and avoid the recommendation algorithms by social media.<p>So: who or what do you follow via RSS feed, and why?"
+      },
+      {
+        "id": 46759387,
+        "title": "Ask HN: DDD was a great debugger – what would a modern equivalent look like?",
+        "url": null,
+        "author": "manux81",
+        "score": 56,
+        "comments": 60,
+        "timestamp": "2026-01-25T17:47:55",
+        "text": "I’ve always thought that DDD was a surprisingly good debugger for its time.<p>It made program execution feel visible: stacks, data, and control flow were all there at once. You could really “see” what the program was doing.<p>At the same time, it’s clearly a product of a different era:<p>– single-process<p>– mostly synchronous code<p>– no real notion of concurrency or async<p>– dated UI and interaction model<p>Today we debug very different systems: multithreaded code, async runtimes, long-running services, distributed components.<p>Yet most debuggers still feel conceptually close to GDB + stepping, just wrapped in a nicer UI.<p>I’m curious how others think about this:<p>– what ideas from DDD (or similar old tools) are still valuable?<p>– what would a “modern DDD” need to handle today’s software?<p>– do you think interactive debugging is still the right abstraction at all?<p>I’m asking mostly from a design perspective — I’ve been experimenting with some debugger ideas myself, but I’m much more interested in hearing how experienced engineers see this problem today."
+      },
+      {
+        "id": 46801743,
+        "title": "Designing programming languages beyond AI comprehension",
+        "url": null,
+        "author": "mr_bob_sacamano",
+        "score": 6,
+        "comments": 9,
+        "timestamp": "2026-01-28T16:25:12",
+        "text": "What characteristics should a programming language have in order to make automated analysis, replication, and learning by artificial intelligence systems difficult? Any idea?"
+      },
+      {
+        "id": 46779535,
+        "title": "Ask HN: What's the Point Anymore?",
+        "url": null,
+        "author": "fnoef",
+        "score": 61,
+        "comments": 78,
+        "timestamp": "2026-01-27T08:14:52",
+        "text": "I love technology. But I&#x27;m no longer optimistic about the future. It seems like AI is not going to go away, and instead of building reliable software, managers seem to push people to use AI more, as long as they ship products. Everything else is being destroyed by AI: art, music, books, personal websites. Why read a blog post, when Google AI Summary can just give you the summary? Why read a book, when you can just get AI summary of it? Why pay artists for music, when you can just generate endless amount of AI music?<p>And even things like &quot;doing day to day chores&quot; are being automated away with tools like AI assistants. The only thing you are left to do is to eat and take a sh*t throughout the day. How should people make money? No idea, as in the &quot;prosperous future&quot;, everything is replaced by AI.<p>So my question HN: What&#x27;s the point anymore? Why keep going and where to?"
+      },
+      {
+        "id": 46787079,
+        "title": "Ask HN: What recent UX changes make no sense to you?",
+        "url": null,
+        "author": "superasn",
+        "score": 30,
+        "comments": 35,
+        "timestamp": "2026-01-27T16:25:05",
+        "text": "For me, it is the shift toward thin, auto-hiding scroll bars. I see it on macOS, Linux (Mint), mobile phones and probably Windows too (though i haven&#x27;t used windows in a while).<p>Is this a cleaner look? I have always loved visible scroll bars because they act as useful  guides for where I am on a page and how much content remains and just easy to drag. Now you have to hover over it first.<p>I am curious what UX changes have stood out to you lately, for better or worse.. Maybe some designers reading this forum will take notes."
+      },
+      {
+        "id": 46776330,
+        "title": "Ask HN: Notification Overload",
+        "url": null,
+        "author": "fractal618",
+        "score": 7,
+        "comments": 8,
+        "timestamp": "2026-01-27T01:46:57",
+        "text": "I&#x27;m looking for tools or methods to better curate the deluge and cacophony of notifications, emails, texts and phone calls I imagine we are all getting inundated with everyday with increasing entropy and volume.<p>The amount of &quot;notifications&quot; I get everyday is overwhelming to the point where I often decide to switch my phone to &quot;silent&quot;, leave my phone in another room, and even turn it off for periods of time. The problem with this is that I miss important things and they often get buried.<p>I&#x27;ve spent hours and hours unsubscribing, deleting, uninstalling, toggling settings, but then I find myself reinstalling, resubscribing. It&#x27;s just a mess, and exhausting to just think about.<p>The reason I&#x27;m writing this is partially to vent. I just realized that my closest friend&#x27;s birthday was a few weeks ago. I had it in my calendar, but never saw the notification. Yes, I should be more organized and Yes, it&#x27;s not the end of the world. but damnit, i get so much crap from this bionic appendage, and still I cant use this tool to help me with remembering important things.<p>It just seems like its getting worse every year.<p>Hopefully this is helpful to others.<p>P.S. can we please stop with the &quot;would you like all or some cookies&quot; popup on every friggin website?<p>P.P.S. can websites stop asking for permission to invade my OS?<p>P.P.P.S. does anyone else ever want to run away and be an off-grid hermit?"
+      },
+      {
+        "id": 46792316,
+        "title": "How much recurring income do you generate in 2026 and from what?",
+        "url": null,
+        "author": "djshah",
+        "score": 9,
+        "comments": 4,
+        "timestamp": "2026-01-28T02:55:40",
+        "text": "It’s always interesting to know the (side) hustles people are running that, in their opinion, provides recurring revenue that is either a good source or passive income or their main source of income."
+      },
+      {
+        "id": 46810260,
+        "title": "Frigate NVR Critical RCE Vulnerability Severity",
+        "url": null,
+        "author": "shadybraden",
+        "score": 2,
+        "comments": 1,
+        "timestamp": "2026-01-29T08:57:28",
+        "text": null
+      },
+      {
+        "id": 46791551,
+        "title": "Ask HN: Vibe Researching\" with AI – Anyone Using It for Real?",
+        "url": null,
+        "author": "spenceXu",
+        "score": 8,
+        "comments": 5,
+        "timestamp": "2026-01-28T00:50:46",
+        "text": "The concept of &quot;vibe researching&quot; – using AI to rapidly explore, synthesize literature, and generate novel research ideas or frameworks – seems promising. Beyond just literature reviews, it could act as a brainstorming co-pilot.<p>Has anyone here seriously used AI (e.g., Claude for long-context paper analysis, custom GPTs on arXiv, or specialized agents) to aid in hypothesis generation, research gap identification, or drafting substantive parts of a paper?<p>What are the biggest pitfalls regarding accuracy, hallucination of citations, or superficial understanding of complex theory? How do you validate the AI&#x27;s output?<p>Do you see it as a legitimate accelerator for early-stage research, or more of a productivity tool for mundane tasks? Any success stories linking it to a tangible research outcome?<p>Looking for honest experiences from academics, industry researchers, or solo discoverers."
+      },
+      {
+        "id": 46790671,
+        "title": "Where can I find startups looking for fractional product leads?",
+        "url": null,
+        "author": "stulogy",
+        "score": 7,
+        "comments": 3,
+        "timestamp": "2026-01-27T22:21:35",
+        "text": "I am looking for the best place to find startup founders who need to hire fractional roles to get them off the ground. I have 15 years of product building experience in the SaaS world, and am looking to connect with other founders."
+      },
+      {
+        "id": 46801311,
+        "title": "Ask HN: Has Show HN become LLM-prompt-centric?",
+        "url": null,
+        "author": "piratesAndSons",
+        "score": 8,
+        "comments": 3,
+        "timestamp": "2026-01-28T15:51:27",
+        "text": "It seems to me that Show HN is filled with low-effort see-what-I-prompted-Claude posts—no innovation, no real creation, just yet another copy of a copy. If you’re going to prompt an LLM, at least come up with something original, not the millionth text editor."
+      },
+      {
+        "id": 46800577,
+        "title": "Ask HN: Where to find cool companies to work for?",
+        "url": null,
+        "author": "truetaurus",
+        "score": 5,
+        "comments": 7,
+        "timestamp": "2026-01-28T14:45:33",
+        "text": "I class myself as a product engineer and have worked with React, NextJS, PostgreSQL, PHP, Typescript etc.<p>I am tired of using linkedin to find a new job.\nI am looking for more smaller companies with remote work.<p>Anyone know some sources to search?"
+      },
+      {
+        "id": 46781700,
+        "title": "Ask HN: European alternative to Vercel/Cloudflare for hosting",
+        "url": null,
+        "author": "vldszn",
+        "score": 11,
+        "comments": 15,
+        "timestamp": "2026-01-27T10:57:30",
+        "text": "Hi, I’m looking for a hosting&#x2F;CDN solution that’s similar to Vercel or Cloudflare Pages&#x2F;Workers, but based in Europe.<p>Any recommendations or experiences with European providers?"
+      },
+      {
+        "id": 46808528,
+        "title": "The Anti-Pomodoro Technique: Focus on Taking Breaks, Not Watching the Timer",
+        "url": null,
+        "author": "kentich",
+        "score": 5,
+        "comments": 7,
+        "timestamp": "2026-01-29T06:05:34",
+        "text": "I’ve never been able to maintain enough focus on a timer. The temptation to get distracted is always strong—and since it’s easy to ignore the timer, I often did.<p>After failing to follow the Pomodoro method, I’d feel irritated, frustrated, and blame myself. Soon enough, the routine would fall apart, and I’d go back to working in my usual way—without boundaries or timers.<p>Then I had an epiphany: focusing on the timer forces you into a battle with yourself. And since it’s hard to fight your own subconscious micro-reactions and habits, you end up frustrated. Sticking rigidly to a timer is the wrong goal. The real goal should be taking regular breaks—focus will follow naturally.<p>To test this idea, I created &quot;Black Screen for Windows&quot; — an app that forcibly blacks out my screens for a few minutes at regular intervals. Usually, that’s 3–5 minutes every 20–30 minutes.<p>This practice of enforced, regular breaks has not only improved my well-being but also dramatically boosted my productivity—all without the frustration. My ability to focus improved, too, with a small hack: I start with a 30-minute interval, then gradually shorten it until I find a span of time in which I can maintain clean, distraction-free focus.<p>I find this works better for me than the classic tier-based Pomodoro.<p>What do you think?"
+      },
+      {
+        "id": 46770887,
+        "title": "Ask HN: How to prevent Claude/GPT/Gemini from reinforcing your biases?",
+        "url": null,
+        "author": "akshay326",
+        "score": 29,
+        "comments": 22,
+        "timestamp": "2026-01-26T15:15:18",
+        "text": "Lately i&#x27;ve been experimenting with this template in Claude&#x27;s default prompt\n```\nWhen I ask a question, give me at least two plausible but contrasting perspectives, even if one seems dominant. Make me aware of assumptions behind each.\n```<p>I find it annoying coz A) it compromises brevity B) sometimes the plausible answers are so good, it forces me to think<p>What have you tried so far?"
+      },
+      {
+        "id": 46760285,
+        "title": "Tell HN: I cut Claude API costs from $70/month to pennies",
+        "url": null,
+        "author": "ok_orco",
+        "score": 40,
+        "comments": 25,
+        "timestamp": "2026-01-25T19:34:17",
+        "text": "The first time I pulled usage costs after running Chatter.Plus - a tool I&#x27;m building that aggregates community feedback from Discord&#x2F;GitHub&#x2F;forums - for a day hours, I saw $2.30. Did the math. $70&#x2F;month. $840&#x2F;year. For one instance. Felt sick.<p>I&#x27;d done napkin math beforehand, so I knew it was probably a bug, but still. Turns out it was only partially a bug. The rest was me needing to rethink how I built this thing.\nSpent the next couple days ripping it apart. Making tweaks, testing with live data, checking results, trying again. What I found was I was sending API requests too often and not optimizing what I was sending and receiving.<p>Here&#x27;s what moved the needle, roughly big to small (besides that bug that was costin me a buck a day alone):<p>- Dropped Claude Sonnet entirely - tested both models on the same data, Haiku actually performed better at a third of the cost<p>- Started batching everything - hourly calls were a money fire<p>- Filter before the AI - &quot;lol&quot; and &quot;thanks&quot; are a lot of online chatter. I was paying AI to tell me that&#x27;s not feedback. That said, I still process agreements like &quot;+1&quot; and &quot;me too.&quot;<p>- Shorter outputs - &quot;H&#x2F;M&#x2F;L&quot; instead of &quot;high&#x2F;medium&#x2F;low&quot;, 40-char title recommendation<p>- Strip code snippets before processing - just reiterating the issue and bloating the call<p>End of the week: pennies a day. Same quality.<p>I&#x27;m not building a VC-backed app that can run at a loss for years. I&#x27;m unemployed, trying to build something that might also pay rent. The math has to work from day one.<p>The upside: these savings let me 3x my pricing tier limits and add intermittent quality checks. Headroom I wouldn&#x27;t have had otherwise.<p>Happy to answer questions."
+      }
+    ],
+    "show_hn": [
+      {
+        "id": 46812285,
+        "title": "Show HN: Kolibri, a DIY music club in Sweden",
+        "url": "https://kolibrinkpg.com/",
+        "author": "EastLondonCoder",
+        "score": 28,
+        "comments": 7,
+        "timestamp": "2026-01-29T11:19:19"
+      },
+      {
+        "id": 46779922,
+        "title": "Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG",
+        "url": "https://playground.shaped.ai",
+        "author": "tullie",
+        "score": 70,
+        "comments": 21,
+        "timestamp": "2026-01-27T08:54:09"
+      },
+      {
+        "id": 46812909,
+        "title": "Show HN: Autonomous recovery for distributed training jobs",
+        "url": "https://docs.tensorpool.dev/features/agent",
+        "author": "tsvoboda",
+        "score": 7,
+        "comments": 3,
+        "timestamp": "2026-01-29T12:01:31"
+      },
+      {
+        "id": 46817278,
+        "title": "Show HN: We review YC applications for free – with feedback from YC founders",
+        "url": "https://www.ycroaster.com",
+        "author": "gjarrosson",
+        "score": 3,
+        "comments": 2,
+        "timestamp": "2026-01-29T16:57:41"
+      },
+      {
+        "id": 46814744,
+        "title": "Show HN: Transcribee: YouTube transcriber that builds a knowledge base",
+        "url": "https://github.com/itsfabioroma/transcribee",
+        "author": "ofabioroma",
+        "score": 11,
+        "comments": 1,
+        "timestamp": "2026-01-29T13:55:40"
+      },
+      {
+        "id": 46816529,
+        "title": "Show HN: ARC-AGI-3 Toolkit",
+        "url": "https://docs.arcprize.org",
+        "author": "gkamradt",
+        "score": 3,
+        "comments": 1,
+        "timestamp": "2026-01-29T16:01:27"
+      },
+      {
+        "id": 46814621,
+        "title": "Show HN: VCluster Free – Free K8s Multi-Tenancy with Virtual Clusters",
+        "url": "https://www.vcluster.com/blog/launching-vcluster-free-get-enterprise-features-at-no-cost",
+        "author": "gentele",
+        "score": 11,
+        "comments": 3,
+        "timestamp": "2026-01-29T13:48:33"
+      },
+      {
+        "id": 46814146,
+        "title": "Show HN: SimpleSVGs – Free Online SVG Optimizer Multiple SVG Files at Once",
+        "url": "https://www.simplesvgs.online/",
+        "author": "firtaet",
+        "score": 4,
+        "comments": 0,
+        "timestamp": "2026-01-29T13:19:16"
+      },
+      {
+        "id": 46739704,
+        "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux",
+        "url": "https://github.com/saysjonathan/dwm.tmux",
+        "author": "saysjonathan",
+        "score": 98,
+        "comments": 17,
+        "timestamp": "2026-01-23T19:15:20"
+      },
+      {
+        "id": 46794281,
+        "title": "Show HN: SHDL – A minimal hardware description language built from logic gates",
+        "url": "https://github.com/rafa-rrayes/SHDL",
+        "author": "rafa_rrayes",
+        "score": 42,
+        "comments": 21,
+        "timestamp": "2026-01-28T07:06:18"
+      },
+      {
+        "id": 46799898,
+        "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+        "url": "https://github.com/jmuncor/sherlock",
+        "author": "jmuncor",
+        "score": 212,
+        "comments": 113,
+        "timestamp": "2026-01-28T13:52:24"
+      },
+      {
+        "id": 46808598,
+        "title": "Show HN: An Open Source Alternative to Vercel/Render/Netlify",
+        "url": "https://www.shorlabs.com/",
+        "author": "thirdavenue",
+        "score": 21,
+        "comments": 2,
+        "timestamp": "2026-01-29T06:12:07"
+      },
+      {
+        "id": 46804396,
+        "title": "Show HN: Shelvy Books",
+        "url": "https://shelvybooks.com",
+        "author": "tekkie00",
+        "score": 44,
+        "comments": 17,
+        "timestamp": "2026-01-28T20:16:41"
+      },
+      {
+        "id": 46793693,
+        "title": "Show HN: The HN Arcade",
+        "url": "https://andrewgy8.github.io/hnarcade/",
+        "author": "yuppiepuppie",
+        "score": 338,
+        "comments": 112,
+        "timestamp": "2026-01-28T05:50:32"
+      },
+      {
+        "id": 46813456,
+        "title": "Show HN: Built a way to validate ideas with AI personas and Simulated Community",
+        "url": "https://www.nichesim.com/",
+        "author": "justincxa",
+        "score": 2,
+        "comments": 0,
+        "timestamp": "2026-01-29T12:35:50"
+      },
+      {
+        "id": 46779864,
+        "title": "Show HN: Build Web Automations via Demonstration",
+        "url": "https://www.notte.cc/launch-week-i/demonstrate-mode",
+        "author": "ogandreakiro",
+        "score": 30,
+        "comments": 20,
+        "timestamp": "2026-01-27T08:48:30"
+      },
+      {
+        "id": 46776643,
+        "title": "Show HN: Externalized Properties, a modern Java configuration library",
+        "url": "https://github.com/joel-jeremy/externalized-properties",
+        "author": "jeyjeyemem",
+        "score": 11,
+        "comments": 7,
+        "timestamp": "2026-01-27T02:37:56"
+      },
+      {
+        "id": 46789645,
+        "title": "Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database",
+        "url": "https://www.pinecone-explorer.com",
+        "author": "arsentjev",
+        "score": 20,
+        "comments": 3,
+        "timestamp": "2026-01-27T20:06:32"
+      },
+      {
+        "id": 46812833,
+        "title": "Show HN: vind – A Better Kind (Kubernetes in Docker)",
+        "url": "https://github.com/loft-sh/vind",
+        "author": "saiyampathak",
+        "score": 13,
+        "comments": 1,
+        "timestamp": "2026-01-29T11:57:14"
+      },
+      {
+        "id": 46783600,
+        "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+        "url": null,
+        "author": "lcolucci",
+        "score": 123,
+        "comments": 127,
+        "timestamp": "2026-01-27T12:55:15"
+      }
+    ],
+    "jobs": [
+      {
+        "id": 46812892,
+        "title": "Reflex (YC W23) Senior Software Engineer Infra",
+        "url": "https://www.ycombinator.com/companies/reflex/jobs/Jcwrz7A-lead-software-engineer-infra",
+        "author": "apetuskey",
+        "timestamp": "2026-01-29T12:00:42"
+      },
+      {
+        "id": 46805439,
+        "title": "Questom (YC F25) is hiring an engineer",
+        "url": "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer",
+        "author": "ritanshu",
+        "timestamp": "2026-01-28T22:29:53"
+      },
+      {
+        "id": 46794231,
+        "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
+        "url": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
+        "author": "asontha",
+        "timestamp": "2026-01-28T07:00:08"
+      },
+      {
+        "id": 46784491,
+        "title": "Hypercubic (YC F25) Is Hiring a Founding SWE and COBOL Engineer",
+        "url": "https://www.ycombinator.com/companies/hypercubic/jobs",
+        "author": "sai18",
+        "timestamp": "2026-01-27T13:50:50"
+      },
+      {
+        "id": 46782763,
+        "title": "Artie (YC S23) Is Hiring a Founding Recruiter",
+        "url": "https://www.ycombinator.com/companies/artie/jobs/MX163y2-founding-recruiter",
+        "author": "j-cheong",
+        "timestamp": "2026-01-27T12:01:37"
+      },
+      {
+        "id": 46779136,
+        "title": "9 Mothers (YC X26, Defense Tech) Is Hiring",
+        "url": "https://jobs.ashbyhq.com/9-mothers?utm_source=x8pZ4B3P3Q",
+        "author": "ukd1",
+        "timestamp": "2026-01-27T07:31:29"
+      },
+      {
+        "id": 46778846,
+        "title": "Trayd (YC S23) is hiring senior engineers in NYC",
+        "url": null,
+        "author": "caratrayd",
+        "timestamp": "2026-01-27T07:00:22"
+      },
+      {
+        "id": 46753336,
+        "title": "Nango (YC W23, Dev Infrastructure) Is Hiring Remotely",
+        "url": "https://jobs.ashbyhq.com/Nango",
+        "author": "bastienbeurier",
+        "timestamp": "2026-01-25T07:02:01"
+      },
+      {
+        "id": 46747625,
+        "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)",
+        "url": "https://www.ycombinator.com/companies/gym-class-by-irl-studios/jobs/ywXHGBv-design-engineer-senior-staff-principal",
+        "author": "hackerews",
+        "timestamp": "2026-01-24T16:01:02"
+      },
+      {
+        "id": 46745224,
+        "title": "Metriport (YC S22) is hiring a security eng to harden healthcare data infra",
+        "url": "https://www.ycombinator.com/companies/metriport/jobs/XC2AF8s-senior-security-engineer",
+        "author": "dgoncharov",
+        "timestamp": "2026-01-24T12:00:07"
+      },
+      {
+        "id": 46741643,
+        "title": "Telli (YC F24) is hiring eng, design, growth [on-site, Berlin]",
+        "url": "https://careers.telli.com/",
+        "author": "sebselassie",
+        "timestamp": "2026-01-24T02:01:13"
+      },
+      {
+        "id": 46740028,
+        "title": "Noora Health (YC W14) Is Hiring AI/ML Engineer",
+        "url": "https://www.ycombinator.com/companies/noora-health/jobs/2B4RxLG-ai-ml-engineer",
+        "author": "edithaelliott",
+        "timestamp": "2026-01-23T20:00:48"
+      },
+      {
+        "id": 46737870,
+        "title": "TrueVault (YC W14) is hiring a Growth Lead to test different growth channels",
+        "url": "https://www.ycombinator.com/companies/truevault/jobs/njvSGDj-growth-lead",
+        "author": "jason_wang",
+        "timestamp": "2026-01-23T16:01:34"
+      },
+      {
+        "id": 46721897,
+        "title": "AnswerThis (YC F25) Is Hiring",
+        "url": "https://www.ycombinator.com/companies/answerthis/jobs/r5VHmSC-ai-agent-orchestration",
+        "author": "ayush4921",
+        "timestamp": "2026-01-22T12:00:40"
+      },
+      {
+        "id": 46718140,
+        "title": "Flowtel (YC W25) Is Hiring",
+        "url": "https://www.ycombinator.com/companies/flowtel/jobs/LaddaEz-founding-engineer-staff-senior",
+        "author": "eylonmiz",
+        "timestamp": "2026-01-22T07:00:45"
+      }
+    ]
+  },
+  "total_items": 165
+}

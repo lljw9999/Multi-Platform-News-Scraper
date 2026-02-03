@@ -1,0 +1,50 @@
+[
+  {
+    "id": "2018481220741689581",
+    "text": "New Anthropic Fellows research: How does misalignment scale with model intelligence and task complexity?\n\nWhen advanced AI fails, will it do so by pursuing the wrong goals? Or will it fail unpredictably and incoherently—like a \"hot mess?\"\n\nRead more: https://t.co/xzRSoJg43j",
+    "created_at": "Tue Feb 03 00:26:39 +0000 2026",
+    "user": {
+      "id": "1353836358901501952",
+      "username": "AnthropicAI",
+      "name": "Anthropic"
+    },
+    "retweet_count": 110,
+    "favorite_count": 996
+  },
+  {
+    "id": "2017313346375004487",
+    "text": "On December 8, the Perseverance rover safely trundled across the surface of Mars.\n\nThis was the first AI-planned drive on another planet. And it was planned by Claude. https://t.co/kVbdKWibuP",
+    "created_at": "Fri Jan 30 19:05:56 +0000 2026",
+    "user": {
+      "id": "1353836358901501952",
+      "username": "AnthropicAI",
+      "name": "Anthropic"
+    },
+    "retweet_count": 857,
+    "favorite_count": 7622
+  },
+  {
+    "id": "2016960382968136138",
+    "text": "AI can make work faster, but a fear is that relying on it may make it harder to learn new skills on the job.\n\nWe ran an experiment with software engineers to learn more. Coding with AI led to a decrease in mastery—but this depended on how people used it.\nhttps://t.co/lbxgP11I4I",
+    "created_at": "Thu Jan 29 19:43:23 +0000 2026",
+    "user": {
+      "id": "1353836358901501952",
+      "username": "AnthropicAI",
+      "name": "Anthropic"
+    },
+    "retweet_count": 1270,
+    "favorite_count": 8555
+  },
+  {
+    "id": "2016636581084541278",
+    "text": "New Anthropic Research: Disempowerment patterns in real-world AI assistant interactions.\n\nAs AI becomes embedded in daily life, one risk is it can distort rather than inform—shaping beliefs, values, or actions in ways users may later regret.\n\nRead more: https://t.co/gyMB2AtOuq",
+    "created_at": "Wed Jan 28 22:16:42 +0000 2026",
+    "user": {
+      "id": "1353836358901501952",
+      "username": "AnthropicAI",
+      "name": "Anthropic"
+    },
+    "retweet_count": 314,
+    "favorite_count": 1788
+  }
+]

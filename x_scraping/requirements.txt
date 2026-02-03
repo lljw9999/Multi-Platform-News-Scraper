@@ -1,0 +1,2 @@
+# X/Twitter Scraping Tools
+twscrape>=0.12.0

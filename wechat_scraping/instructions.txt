@@ -1,0 +1,118 @@
+I'll search for WeChat scraping tools that can handle both DMs and Official Account content.The original PyWxDump was taken down due to a legal notice from WeChat. Let me search for active alternatives and forks.Now I have a comprehensive picture. Let me compile the best options for you.
+
+---
+
+## WeChat Data Scraping Solutions
+
+Given WeChat's aggressive legal actions (the original PyWxDump got a lawyer's letter and was taken down), the landscape is tricky. Here's what's currently available:
+
+---
+
+### **Part 1: DM / Chat History Scraping**
+
+#### **Option A: `wdecipher` (Windows PC - Best Current Option)**
+**GitHub:** https://github.com/gndlwch2w/wdecipher  
+**PyPI:** `pip install wdecipher`
+
+This is a lightweight fork/rewrite of PyWxDump that's still available. Works on **Windows PC WeChat only**.
+
+```python
+from wdecipher import get_wx_infos, get_wx_dbs, batch_decrypt_wx_db
+
+# WeChat must be logged in
+info = get_wx_infos()[0]
+db_key, wx_dir = info["db_key"], info["wx_dir"]
+
+out_dir = "/tmp/decrypted_db"
+dbs = get_wx_dbs(wx_dir)
+batch_decrypt_wx_db(db_key, dbs, out_dir)
+```
+
+**Requirements:**
+- WeChat PC must be running and logged in
+- Windows only (MacOS support coming)
+- Outputs decrypted SQLite databases (`MSG.db`, `MicroMsg.db`, etc.)
+
+---
+
+#### **Option B: `wechat-dump` (Android - Rooted Phone)**
+**GitHub:** https://github.com/ppwwyyxx/wechat-dump  
+**Status:** Still active, verified working as of Jan 2025
+
+For Android phones with root access:
+- Extracts `EnMicroMsg.db` from `/data/data/com.tencent.mm/MicroMsg/`
+- Decrypts using IMEI + UIN → MD5 → first 7 chars
+- Exports to HTML with images, voice, video
+
+---
+
+#### **Option C: `middleclicker/WechatScraper` (Windows Desktop - UI Automation)**
+**GitHub:** https://github.com/middleclicker/WechatScraper
+
+Simple UI automation approach - scrolls through WeChat desktop window and scrapes visible messages. Less reliable but doesn't require decryption.
+
+---
+
+### **Part 2: 公众号 (Official Account Articles) Scraping**
+
+#### **Option A: `wechat_articles_spider` (Best Current Option)**
+**GitHub:** https://github.com/wnma3mz/wechat_articles_spider  
+**PyPI:** `pip install wechatarticles`
+
+Most comprehensive tool for scraping 公众号 articles, including:
+- Article URLs
+- Read counts, likes, comments
+- Full article content
+- Export to HTML/PDF
+
+**Two approaches:**
+1. **Web Platform Method:** Use official WeChat 公众号 admin platform cookies + token
+2. **PC/Mobile WeChat Method:** Intercept via Fiddler/mitmproxy
+
+```python
+# Example: Get article list from a 公众号
+from wechatarticles import OfficialWeChat
+
+ow = OfficialWeChat(cookie=your_cookie, token=your_token)
+articles = ow.get_articles(biz="MzI3MDA5NzxxxAA==")  # The biz ID of the account
+```
+
+---
+
+#### **Option B: `harryziyuhe/wechat_scraping` (MITM-based)**
+**GitHub:** https://github.com/harryziyuhe/wechat_scraping
+
+Uses mitmproxy to intercept requests from WeChat client. More complex setup but handles:
+- Article content
+- Statistics (reads, likes)
+- Comments
+
+Requires VirtualBox setup to avoid proxy conflicts.
+
+---
+
+#### **Option C: `vinceyyy/wechat-article-scraper`**
+**GitHub:** https://github.com/vinceyyy/wechat-article-scraper
+
+Lighter-weight scraper for 公众号 articles using MITM proxy approach. Gets titles, views, likes, real URLs.
+
+---
+
+### **Quick Start Recommendation**
+
+For your use case (DMs + 公众号):
+
+| Task | Tool | Complexity |
+|------|------|------------|
+| **DMs (PC)** | `wdecipher` | Easy - pip install, run script |
+| **DMs (Android)** | `wechat-dump` | Medium - needs rooted phone |
+| **公众号 Articles** | `wechat_articles_spider` | Medium - needs cookies/token |
+
+**Immediate action:**
+```bash
+# For DMs (Windows PC)
+pip install wdecipher
+
+# For 公众号 articles
+pip install wechatarticles
+```

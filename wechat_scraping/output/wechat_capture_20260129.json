@@ -1,0 +1,37 @@
+{
+    "capture_date": "2026-01-29T21:14:00",
+    "source": "mitmproxy",
+    "status": "credentials_captured",
+    "accounts_discovered": [
+        {
+            "biz": "MjM5MTM3NTMwNA==",
+            "description": "Account 1 - Article viewed during capture"
+        },
+        {
+            "biz": "MzIzMDIwODEzNw==",
+            "description": "Account 2 - Article viewed during capture"
+        },
+        {
+            "biz": "MzIyMTk0NTU4NA==",
+            "description": "Account 3 - Article viewed during capture"
+        }
+    ],
+    "articles_urls": [
+        "https://mp.weixin.qq.com/s?__biz=MjM5MTM3NTMwNA==&mid=2661688834&idx=1",
+        "https://mp.weixin.qq.com/s?__biz=MzIzMDIwODEzNw==&mid=2247485154&idx=1",
+        "https://mp.weixin.qq.com/s?__biz=MzIyMTk0NTU4NA==&mid=2247493016&idx=1"
+    ],
+    "authentication": {
+        "method": "x-wechat-uin + x-wechat-key headers",
+        "x_wechat_uin": "OTAxMDgzMzM0",
+        "x_wechat_key": "daf9bdc5abc4e8d04205c64a6f3855dfd50f0d60ea646c621bcb43fae0b93eefa03ac0cf434a2456650188073b70b4be56f1a6d38f1cfccc11c1a5e51ec7256d387ada5728e7b3b52157a56c0219dc54c76f61495ba5d1e4fd32857dea034e5e38fefd9475040bbe6d854de80ad0c08c363b4cd4c1274a532833fcd0495d45e6",
+        "pass_ticket": "Tt9XytA6r%2BiF%2BcTH71o0%2BY1VIp5a3qJgHLZg8kLP2zfVEPmPzk0R9GxgElxGoF23",
+        "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 MicroMessenger/8.0.68(0x1800442c) NetType/WIFI Language/zh_CN"
+    },
+    "notes": [
+        "WeChat article scraping requires full authentication chain",
+        "Articles accessed through WeChat app on iPhone via mitmproxy",
+        "Credentials are session-based and will expire",
+        "To scrape full content, need to access via WeChat's internal webview"
+    ]
+}

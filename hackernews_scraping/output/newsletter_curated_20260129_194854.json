@@ -1,0 +1,3697 @@
+{
+  "schema_version": "3.1",
+  "curated_at": "2026-01-29T19:48:54.789413",
+  "source": "hackernews",
+  "curation_config": {
+    "min_relevance": 0.2,
+    "pool_size": 25,
+    "publish_count": 8
+  },
+  "stats": {
+    "input_items": 151,
+    "pool_items": 25,
+    "published_items": 8,
+    "filtered_noise": 82,
+    "filtered_low_relevance": 30,
+    "filtered_flamewar": 2,
+    "filtered_low_quality": 0,
+    "themes": {
+      "🤖 AI & LLMs": 7,
+      "💻 Developer Tools": 1
+    }
+  },
+  "themes": {
+    "🤖 AI & LLMs": [
+      {
+        "id": "378efbfef36fe3b23da6865e3945bc65",
+        "source": "hackernews",
+        "source_id": "46814569",
+        "title": "My Mom and Dr. DeepSeek (2025)",
+        "content": "My Mom and Dr. DeepSeek (2025)",
+        "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+        "author_username": "kieto",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 116,
+        "impressions_reposts": 0,
+        "impressions_replies": 76,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:23.180745",
+        "published_at": "2026-01-29T13:45:27",
+        "scraped_at": "2026-01-29T19:36:23.180947",
+        "metadata": {
+          "item_type": "story",
+          "hn_url": "https://news.ycombinator.com/item?id=46814569",
+          "kids_count": 24,
+          "sections": [
+            "top_stories"
+          ]
+        },
+        "content_hash": "2d5b227c4053cdf6de6c3fc0a053719d",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "llm",
+          "primary_topic_label": "Large Language Models",
+          "all_topics": [
+            "llm"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 2,
+              "weighted_score": 2.0,
+              "matched_keywords": [
+                "deepseek"
+              ],
+              "label": "Large Language Models"
+            }
+          },
+          "relevance_score": 0.2,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 0.66,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": true,
+          "discussion_depth": 3.17,
+          "velocity": 19.15,
+          "hours_old": 6.1,
+          "quality_tier": "good"
+        },
+        "editorial": {
+          "one_liner": "Large Language Models insight worth reading",
+          "why_it_matters": "directly relevant to AI practitioners",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 3
+        }
+      },
+      {
+        "id": "ca200f4e223f5503438fb31716c49ce7",
+        "source": "hackernews",
+        "source_id": "46799898",
+        "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+        "content": "I built this out of curiosity about what Claude Code was actually sending to the API. Turns out, watching your tokens tick up in real-time is oddly satisfying.<p>Sherlock sits between your LLM tools and the API, showing you every request with a live dashboard, and auto-saved copies of every prompt as markdown and json.",
+        "url": "https://github.com/jmuncor/sherlock",
+        "author_username": "jmuncor",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 212,
+        "impressions_reposts": 0,
+        "impressions_replies": 113,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:25.808438",
+        "published_at": "2026-01-28T13:52:24",
+        "scraped_at": "2026-01-29T19:36:25.808444",
+        "metadata": {
+          "item_type": "show_hn",
+          "hn_url": "https://news.ycombinator.com/item?id=46799898",
+          "kids_count": 31,
+          "sections": [
+            "show_hn"
+          ]
+        },
+        "content_hash": "f60ab88568b7d90542ea35cf52b5d4bf",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "llm",
+          "primary_topic_label": "Large Language Models",
+          "all_topics": [
+            "llm",
+            "developer_tools"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 3,
+              "weighted_score": 3.0,
+              "matched_keywords": [
+                "llm",
+                "claude"
+              ],
+              "label": "Large Language Models"
+            },
+            "developer_tools": {
+              "raw_score": 1,
+              "weighted_score": 0.6,
+              "matched_keywords": [
+                "api"
+              ],
+              "label": "Developer Tools"
+            }
+          },
+          "relevance_score": 0.36,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 0.53,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 3.65,
+          "velocity": 7.08,
+          "hours_old": 29.9,
+          "quality_tier": "good"
+        },
+        "editorial": {
+          "one_liner": "New large language models project worth checking out",
+          "why_it_matters": "directly relevant to AI practitioners",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 3
+        }
+      },
+      {
+        "id": "6d45da37d2fbda24bf72f1b1b553d657",
+        "source": "hackernews",
+        "source_id": "46783600",
+        "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+        "content": "Hey HN, we&#x27;re the co-founders of LemonSlice (try our HN playground here: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;hn\">https:&#x2F;&#x2F;lemonslice.com&#x2F;hn</a>). We train interactive avatar video models. Our API lets you upload a photo and immediately jump into a FaceTime-style call with that character. Here&#x27;s a demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;941577113141418e80d2834c83a5a0a9\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;941577113141418e80d2834c83a5a0a9</a><p>Chatbots are everywhere and voice AI has taken off, but we believe video avatars will be the most common form factor for conversational AI. Most people would rather watch something than read it. The problem is that generating video in real-time is hard, and overcoming the uncanny valley is even harder.<p>We haven’t broken the uncanny valley yet. Nobody has. But we’re getting close and our photorealistic avatars are currently best-in-class (judge for yourself: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;taylor\">https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;taylor</a>). Plus, we&#x27;re the only avatar model that can do animals and heavily stylized cartoons. Try it: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;alien\">https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;alien</a>. Warning! Talking to this little guy may improve your mood.<p>Today we&#x27;re releasing our new model* - Lemon Slice 2, a 20B-parameter diffusion transformer that generates infinite-length video at 20fps on a single GPU - and opening up our API.<p>How did we get a video diffusion model to run in real-time? There was no single trick, just a lot of them stacked together. The first big change was making our model causal. Standard video diffusion models are bidirectional (they look at frames both before and after the current one), which means you can&#x27;t stream.<p>From there it was about fitting everything on one GPU. We switched from full to sliding window attention, which killed our memory bottleneck. We distilled from 40 denoising steps down to just a few - quality degraded less than we feared, especially after using GAN-based distillation (though tuning that adversarial loss to avoid mode collapse was its own adventure).<p>And the rest was inference work: modifying RoPE from complex to real (this one was cool!), precision tuning, fusing kernels, a special rolling KV cache, lots of other caching, and more. We kept shaving off milliseconds wherever we could and eventually got to real-time.<p>We set up a guest playground for HN so you can create and talk to characters without logging in: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;hn\">https:&#x2F;&#x2F;lemonslice.com&#x2F;hn</a>. For those who want to build with our API (we have a new LiveKit integration that we’re pumped about!), grab a coupon code in the HN playground for your first Pro month free ($100 value). See the docs: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;docs\">https:&#x2F;&#x2F;lemonslice.com&#x2F;docs</a>. Pricing is usage-based at $0.12-0.20&#x2F;min for video generation.<p>Looking forward to your feedback!<p>EDIT: Tell us what characters you want to see in the comments and we can make them for you to talk to (e.g. Max Headroom)<p>*We did a Show HN last year for our V1 model: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43785044\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43785044</a>. It was technically impressive but so bad compared to what we have today.",
+        "url": null,
+        "author_username": "lcolucci",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 123,
+        "impressions_reposts": 0,
+        "impressions_replies": 127,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:25.808589",
+        "published_at": "2026-01-27T12:55:15",
+        "scraped_at": "2026-01-29T19:36:25.808591",
+        "metadata": {
+          "item_type": "show_hn",
+          "hn_url": "https://news.ycombinator.com/item?id=46783600",
+          "kids_count": 40,
+          "sections": [
+            "show_hn"
+          ]
+        },
+        "content_hash": "d73870bad83d37763babc939359327d9",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "ml_research",
+          "primary_topic_label": "ML Research",
+          "all_topics": [
+            "llm",
+            "ml_research",
+            "ai_infra",
+            "developer_tools",
+            "tech_industry"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 1,
+              "weighted_score": 1.0,
+              "matched_keywords": [
+                "transformer"
+              ],
+              "label": "Large Language Models"
+            },
+            "ml_research": {
+              "raw_score": 4,
+              "weighted_score": 3.6,
+              "matched_keywords": [
+                "inference",
+                "model",
+                "diffusion",
+                "attention"
+              ],
+              "label": "ML Research"
+            },
+            "ai_infra": {
+              "raw_score": 1,
+              "weighted_score": 0.9,
+              "matched_keywords": [
+                "gpu"
+              ],
+              "label": "AI Infrastructure"
+            },
+            "developer_tools": {
+              "raw_score": 3,
+              "weighted_score": 1.7999999999999998,
+              "matched_keywords": [
+                "ide",
+                "api"
+              ],
+              "label": "Developer Tools"
+            },
+            "tech_industry": {
+              "raw_score": 1,
+              "weighted_score": 0.5,
+              "matched_keywords": [
+                "yc"
+              ],
+              "label": "Tech Industry"
+            }
+          },
+          "relevance_score": 0.78,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 1.03,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 3.17,
+          "velocity": 2.24,
+          "hours_old": 54.9,
+          "quality_tier": "good"
+        },
+        "editorial": {
+          "one_liner": "New ml research project worth checking out",
+          "why_it_matters": "directly relevant to AI practitioners",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 3
+        }
+      },
+      {
+        "id": "b241a839855521de7cbe83fdb6c6c300",
+        "source": "hackernews",
+        "source_id": "46810282",
+        "title": "Claude Code daily benchmarks for degradation tracking",
+        "content": "Claude Code daily benchmarks for degradation tracking",
+        "url": "https://marginlab.ai/trackers/claude-code/",
+        "author_username": "qwesr123",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 518,
+        "impressions_reposts": 0,
+        "impressions_replies": 261,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:23.177422",
+        "published_at": "2026-01-29T08:59:07",
+        "scraped_at": "2026-01-29T19:36:23.177425",
+        "metadata": {
+          "item_type": "story",
+          "hn_url": "https://news.ycombinator.com/item?id=46810282",
+          "kids_count": 49,
+          "sections": [
+            "top_stories",
+            "best_stories"
+          ]
+        },
+        "content_hash": "82d59109c6cf5c820c1baa3293a7c735",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "llm",
+          "primary_topic_label": "Large Language Models",
+          "all_topics": [
+            "llm",
+            "ml_research"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 2,
+              "weighted_score": 2.0,
+              "matched_keywords": [
+                "claude"
+              ],
+              "label": "Large Language Models"
+            },
+            "ml_research": {
+              "raw_score": 2,
+              "weighted_score": 1.8,
+              "matched_keywords": [
+                "benchmark"
+              ],
+              "label": "ML Research"
+            }
+          },
+          "relevance_score": 0.38,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 0.5,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 5.33,
+          "velocity": 47.83,
+          "hours_old": 10.8,
+          "quality_tier": "trending_must_include"
+        },
+        "editorial": {
+          "one_liner": "Performance/comparison data for large language models",
+          "why_it_matters": "rapidly gaining attention; highly upvoted by HN community",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 4
+        }
+      },
+      {
+        "id": "1c1c503eb7d9101b948a05817ed7cb0c",
+        "source": "hackernews",
+        "source_id": "46816539",
+        "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+        "content": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+        "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+        "author_username": "rd",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 129,
+        "impressions_reposts": 0,
+        "impressions_replies": 193,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:23.180994",
+        "published_at": "2026-01-29T16:02:31",
+        "scraped_at": "2026-01-29T19:36:23.180996",
+        "metadata": {
+          "item_type": "story",
+          "hn_url": "https://news.ycombinator.com/item?id=46816539",
+          "kids_count": 26,
+          "sections": [
+            "top_stories"
+          ]
+        },
+        "content_hash": "f2cd8b66ab06e093b4d7284158f674f2",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "llm",
+          "primary_topic_label": "Large Language Models",
+          "all_topics": [
+            "llm"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 6,
+              "weighted_score": 6.0,
+              "matched_keywords": [
+                "gpt",
+                "openai",
+                "chatgpt"
+              ],
+              "label": "Large Language Models"
+            }
+          },
+          "relevance_score": 0.6,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 1.5,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 7.42,
+          "velocity": 34.19,
+          "hours_old": 3.8,
+          "quality_tier": "trending_must_include"
+        },
+        "editorial": {
+          "one_liner": "Large Language Models insight worth reading",
+          "why_it_matters": "rapidly gaining attention; directly relevant to AI practitioners",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 4
+        }
+      },
+      {
+        "id": "a9bd97d71dec9637a893af925648483b",
+        "source": "hackernews",
+        "source_id": "46812173",
+        "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+        "content": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+        "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+        "author_username": "randycupertino",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 383,
+        "impressions_reposts": 0,
+        "impressions_replies": 201,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:23.180989",
+        "published_at": "2026-01-29T11:12:19",
+        "scraped_at": "2026-01-29T19:36:23.180990",
+        "metadata": {
+          "item_type": "story",
+          "hn_url": "https://news.ycombinator.com/item?id=46812173",
+          "kids_count": 39,
+          "sections": [
+            "top_stories",
+            "best_stories"
+          ]
+        },
+        "content_hash": "b951e029b2b0903f952e6e0e178df160",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "llm",
+          "primary_topic_label": "Large Language Models",
+          "all_topics": [
+            "llm"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 4,
+              "weighted_score": 4.0,
+              "matched_keywords": [
+                "gpt",
+                "chatgpt"
+              ],
+              "label": "Large Language Models"
+            }
+          },
+          "relevance_score": 0.4,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 0.52,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 5.15,
+          "velocity": 44.48,
+          "hours_old": 8.6,
+          "quality_tier": "trending_must_include"
+        },
+        "editorial": {
+          "one_liner": "Large Language Models insight worth reading",
+          "why_it_matters": "rapidly gaining attention; highly upvoted by HN community",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 4
+        }
+      },
+      {
+        "id": "55da6156c06cfb1f9b647b3fa49296a5",
+        "source": "hackernews",
+        "source_id": "46818154",
+        "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+        "content": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+        "url": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
+        "author_username": "jbmilgrom",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 6,
+        "impressions_reposts": 0,
+        "impressions_replies": 4,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:23.177616",
+        "published_at": "2026-01-29T18:06:34",
+        "scraped_at": "2026-01-29T19:36:23.177618",
+        "metadata": {
+          "item_type": "story",
+          "hn_url": "https://news.ycombinator.com/item?id=46818154",
+          "kids_count": 4,
+          "sections": [
+            "top_stories"
+          ]
+        },
+        "content_hash": "e7ff58301c8ed26e685c38add0ea9cb9",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "llm",
+          "primary_topic_label": "Large Language Models",
+          "all_topics": [
+            "llm",
+            "developer_tools"
+          ],
+          "topic_details": {
+            "llm": {
+              "raw_score": 2,
+              "weighted_score": 2.0,
+              "matched_keywords": [
+                "coding agent"
+              ],
+              "label": "Large Language Models"
+            },
+            "developer_tools": {
+              "raw_score": 2,
+              "weighted_score": 1.2,
+              "matched_keywords": [
+                "coding"
+              ],
+              "label": "Developer Tools"
+            }
+          },
+          "relevance_score": 0.32,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 0.67,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 1.0,
+          "velocity": 3.52,
+          "hours_old": 1.7,
+          "quality_tier": "low"
+        },
+        "editorial": {
+          "one_liner": "Large Language Models insight worth reading",
+          "why_it_matters": "directly relevant to AI practitioners",
+          "audience_fit": "AI engineers & researchers",
+          "newsletter_priority": 4
+        }
+      }
+    ],
+    "💻 Developer Tools": [
+      {
+        "id": "430d785a576ecbe678f57a69aca23601",
+        "source": "hackernews",
+        "source_id": "46812608",
+        "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+        "content": "Hey HN, we&#x27;re Haakam, Michael, and Adi. We&#x27;re building AgentMail (<a href=\"https:&#x2F;&#x2F;agentmail.to\">https:&#x2F;&#x2F;agentmail.to</a>), the email inbox API for agents. We’re not talking about AI for your email, this is email for your AI.<p>Email is an optimal interface for long-running agents. It’s multithreaded and asynchronous with full support for rich text and files. It’s a universal protocol with identity and authentication built in. Moreover, a lot of workflow critical context already lives in email.<p>We wanted to build email agents that you can forward your work to and get back a completed task. The agents could act entirely autonomously as you wouldn&#x27;t need to delegate your identity. If they did get stuck they could just send you, or anyone else, an email.<p>Using Gmail, we kept getting stuck on the limitations of their API. No way to create inboxes programmatically. Rate and sending limits. OAuth for every single inbox. Keyword search that doesn&#x27;t understand context. Per-seat pricing that doesn&#x27;t work for agents.<p>So we built what we wished existed: an email provider for developers. APIs for creating inboxes and configuring domains. Email parsing and threading. Text extraction from attachments. Realtime webhooks and websockets. Semantic search across inboxes. Usage-based pricing that works for agents.<p>Developers, startups, and enterprises are already deploying email agents with AgentMail. Agents that convert conversations and documents into structured data. Agents that source quotes, negotiate prices, and get the best deals. Agents that emulate internet users for training models on end-to-end tasks.<p>Here&#x27;s demo of Clawdbots communicating using AgentMail: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;Y0MfUWS3LKQ\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;Y0MfUWS3LKQ</a><p>You can get started with AgentMail for free at <a href=\"https:&#x2F;&#x2F;agentmail.to\">https:&#x2F;&#x2F;agentmail.to</a><p>Looking forward to hearing your thoughts and feedback.",
+        "url": null,
+        "author_username": "Haakam21",
+        "author_category": "unknown",
+        "media": [],
+        "impressions_views": null,
+        "impressions_likes": 111,
+        "impressions_reposts": 0,
+        "impressions_replies": 125,
+        "impressions_bookmarks": null,
+        "impressions_clicks": null,
+        "impressions_quotes": null,
+        "impressions_updated_at": "2026-01-29T19:36:23.177564",
+        "published_at": "2026-01-29T11:42:33",
+        "scraped_at": "2026-01-29T19:36:23.177566",
+        "metadata": {
+          "item_type": "story",
+          "hn_url": "https://news.ycombinator.com/item?id=46812608",
+          "kids_count": 39,
+          "sections": [
+            "top_stories"
+          ]
+        },
+        "content_hash": "2fad6dff620d822e6b3acc46e8e1f237",
+        "classification": {
+          "is_ai_relevant": true,
+          "primary_topic": "developer_tools",
+          "primary_topic_label": "Developer Tools",
+          "all_topics": [
+            "ml_research",
+            "developer_tools",
+            "tech_industry"
+          ],
+          "topic_details": {
+            "ml_research": {
+              "raw_score": 2,
+              "weighted_score": 1.8,
+              "matched_keywords": [
+                "training",
+                "model"
+              ],
+              "label": "ML Research"
+            },
+            "developer_tools": {
+              "raw_score": 4,
+              "weighted_score": 2.4,
+              "matched_keywords": [
+                "developer",
+                "ide",
+                "api"
+              ],
+              "label": "Developer Tools"
+            },
+            "tech_industry": {
+              "raw_score": 3,
+              "weighted_score": 1.5,
+              "matched_keywords": [
+                "startup",
+                "yc"
+              ],
+              "label": "Tech Industry"
+            }
+          },
+          "relevance_score": 0.57,
+          "is_noise": false,
+          "filter_reason": null
+        },
+        "engagement_quality": {
+          "engagement_ratio": 1.13,
+          "is_flamewar": false,
+          "is_high_signal": false,
+          "is_emerging": false,
+          "discussion_depth": 3.21,
+          "velocity": 13.69,
+          "hours_old": 8.1,
+          "quality_tier": "good"
+        },
+        "editorial": {
+          "one_liner": "YC startup launching in developer tools space",
+          "why_it_matters": "worth monitoring",
+          "audience_fit": "Software developers",
+          "newsletter_priority": 3
+        }
+      }
+    ]
+  },
+  "published_items": [
+    {
+      "id": "b241a839855521de7cbe83fdb6c6c300",
+      "source": "hackernews",
+      "source_id": "46810282",
+      "title": "Claude Code daily benchmarks for degradation tracking",
+      "content": "Claude Code daily benchmarks for degradation tracking",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "author_username": "qwesr123",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 518,
+      "impressions_reposts": 0,
+      "impressions_replies": 261,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.177422",
+      "published_at": "2026-01-29T08:59:07",
+      "scraped_at": "2026-01-29T19:36:23.177425",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46810282",
+        "kids_count": 49,
+        "sections": [
+          "top_stories",
+          "best_stories"
+        ]
+      },
+      "content_hash": "82d59109c6cf5c820c1baa3293a7c735",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "ml_research"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "ml_research": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "benchmark"
+            ],
+            "label": "ML Research"
+          }
+        },
+        "relevance_score": 0.38,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.5,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 5.33,
+        "velocity": 47.83,
+        "hours_old": 10.8,
+        "quality_tier": "trending_must_include"
+      },
+      "editorial": {
+        "one_liner": "Performance/comparison data for large language models",
+        "why_it_matters": "rapidly gaining attention; highly upvoted by HN community",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "1c1c503eb7d9101b948a05817ed7cb0c",
+      "source": "hackernews",
+      "source_id": "46816539",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "content": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "author_username": "rd",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 129,
+      "impressions_reposts": 0,
+      "impressions_replies": 193,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.180994",
+      "published_at": "2026-01-29T16:02:31",
+      "scraped_at": "2026-01-29T19:36:23.180996",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46816539",
+        "kids_count": 26,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "f2cd8b66ab06e093b4d7284158f674f2",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 6,
+            "weighted_score": 6.0,
+            "matched_keywords": [
+              "gpt",
+              "openai",
+              "chatgpt"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.6,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 1.5,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 7.42,
+        "velocity": 34.19,
+        "hours_old": 3.8,
+        "quality_tier": "trending_must_include"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "rapidly gaining attention; directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "a9bd97d71dec9637a893af925648483b",
+      "source": "hackernews",
+      "source_id": "46812173",
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "content": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "author_username": "randycupertino",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 383,
+      "impressions_reposts": 0,
+      "impressions_replies": 201,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.180989",
+      "published_at": "2026-01-29T11:12:19",
+      "scraped_at": "2026-01-29T19:36:23.180990",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46812173",
+        "kids_count": 39,
+        "sections": [
+          "top_stories",
+          "best_stories"
+        ]
+      },
+      "content_hash": "b951e029b2b0903f952e6e0e178df160",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 4,
+            "weighted_score": 4.0,
+            "matched_keywords": [
+              "gpt",
+              "chatgpt"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.4,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.52,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 5.15,
+        "velocity": 44.48,
+        "hours_old": 8.6,
+        "quality_tier": "trending_must_include"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "rapidly gaining attention; highly upvoted by HN community",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "378efbfef36fe3b23da6865e3945bc65",
+      "source": "hackernews",
+      "source_id": "46814569",
+      "title": "My Mom and Dr. DeepSeek (2025)",
+      "content": "My Mom and Dr. DeepSeek (2025)",
+      "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+      "author_username": "kieto",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 116,
+      "impressions_reposts": 0,
+      "impressions_replies": 76,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.180745",
+      "published_at": "2026-01-29T13:45:27",
+      "scraped_at": "2026-01-29T19:36:23.180947",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46814569",
+        "kids_count": 24,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "2d5b227c4053cdf6de6c3fc0a053719d",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "deepseek"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.66,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": true,
+        "discussion_depth": 3.17,
+        "velocity": 19.15,
+        "hours_old": 6.1,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "430d785a576ecbe678f57a69aca23601",
+      "source": "hackernews",
+      "source_id": "46812608",
+      "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+      "content": "Hey HN, we&#x27;re Haakam, Michael, and Adi. We&#x27;re building AgentMail (<a href=\"https:&#x2F;&#x2F;agentmail.to\">https:&#x2F;&#x2F;agentmail.to</a>), the email inbox API for agents. We’re not talking about AI for your email, this is email for your AI.<p>Email is an optimal interface for long-running agents. It’s multithreaded and asynchronous with full support for rich text and files. It’s a universal protocol with identity and authentication built in. Moreover, a lot of workflow critical context already lives in email.<p>We wanted to build email agents that you can forward your work to and get back a completed task. The agents could act entirely autonomously as you wouldn&#x27;t need to delegate your identity. If they did get stuck they could just send you, or anyone else, an email.<p>Using Gmail, we kept getting stuck on the limitations of their API. No way to create inboxes programmatically. Rate and sending limits. OAuth for every single inbox. Keyword search that doesn&#x27;t understand context. Per-seat pricing that doesn&#x27;t work for agents.<p>So we built what we wished existed: an email provider for developers. APIs for creating inboxes and configuring domains. Email parsing and threading. Text extraction from attachments. Realtime webhooks and websockets. Semantic search across inboxes. Usage-based pricing that works for agents.<p>Developers, startups, and enterprises are already deploying email agents with AgentMail. Agents that convert conversations and documents into structured data. Agents that source quotes, negotiate prices, and get the best deals. Agents that emulate internet users for training models on end-to-end tasks.<p>Here&#x27;s demo of Clawdbots communicating using AgentMail: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;Y0MfUWS3LKQ\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;Y0MfUWS3LKQ</a><p>You can get started with AgentMail for free at <a href=\"https:&#x2F;&#x2F;agentmail.to\">https:&#x2F;&#x2F;agentmail.to</a><p>Looking forward to hearing your thoughts and feedback.",
+      "url": null,
+      "author_username": "Haakam21",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 111,
+      "impressions_reposts": 0,
+      "impressions_replies": 125,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.177564",
+      "published_at": "2026-01-29T11:42:33",
+      "scraped_at": "2026-01-29T19:36:23.177566",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46812608",
+        "kids_count": 39,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "2fad6dff620d822e6b3acc46e8e1f237",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "developer_tools",
+        "primary_topic_label": "Developer Tools",
+        "all_topics": [
+          "ml_research",
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "ml_research": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "training",
+              "model"
+            ],
+            "label": "ML Research"
+          },
+          "developer_tools": {
+            "raw_score": 4,
+            "weighted_score": 2.4,
+            "matched_keywords": [
+              "developer",
+              "ide",
+              "api"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 3,
+            "weighted_score": 1.5,
+            "matched_keywords": [
+              "startup",
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.57,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 1.13,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 3.21,
+        "velocity": 13.69,
+        "hours_old": 8.1,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "YC startup launching in developer tools space",
+        "why_it_matters": "worth monitoring",
+        "audience_fit": "Software developers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "ca200f4e223f5503438fb31716c49ce7",
+      "source": "hackernews",
+      "source_id": "46799898",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "content": "I built this out of curiosity about what Claude Code was actually sending to the API. Turns out, watching your tokens tick up in real-time is oddly satisfying.<p>Sherlock sits between your LLM tools and the API, showing you every request with a live dashboard, and auto-saved copies of every prompt as markdown and json.",
+      "url": "https://github.com/jmuncor/sherlock",
+      "author_username": "jmuncor",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 212,
+      "impressions_reposts": 0,
+      "impressions_replies": 113,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.808438",
+      "published_at": "2026-01-28T13:52:24",
+      "scraped_at": "2026-01-29T19:36:25.808444",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46799898",
+        "kids_count": 31,
+        "sections": [
+          "show_hn"
+        ]
+      },
+      "content_hash": "f60ab88568b7d90542ea35cf52b5d4bf",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 3,
+            "weighted_score": 3.0,
+            "matched_keywords": [
+              "llm",
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 1,
+            "weighted_score": 0.6,
+            "matched_keywords": [
+              "api"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.36,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.53,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 3.65,
+        "velocity": 7.08,
+        "hours_old": 29.9,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "New large language models project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "6d45da37d2fbda24bf72f1b1b553d657",
+      "source": "hackernews",
+      "source_id": "46783600",
+      "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+      "content": "Hey HN, we&#x27;re the co-founders of LemonSlice (try our HN playground here: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;hn\">https:&#x2F;&#x2F;lemonslice.com&#x2F;hn</a>). We train interactive avatar video models. Our API lets you upload a photo and immediately jump into a FaceTime-style call with that character. Here&#x27;s a demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;941577113141418e80d2834c83a5a0a9\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;941577113141418e80d2834c83a5a0a9</a><p>Chatbots are everywhere and voice AI has taken off, but we believe video avatars will be the most common form factor for conversational AI. Most people would rather watch something than read it. The problem is that generating video in real-time is hard, and overcoming the uncanny valley is even harder.<p>We haven’t broken the uncanny valley yet. Nobody has. But we’re getting close and our photorealistic avatars are currently best-in-class (judge for yourself: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;taylor\">https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;taylor</a>). Plus, we&#x27;re the only avatar model that can do animals and heavily stylized cartoons. Try it: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;alien\">https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;alien</a>. Warning! Talking to this little guy may improve your mood.<p>Today we&#x27;re releasing our new model* - Lemon Slice 2, a 20B-parameter diffusion transformer that generates infinite-length video at 20fps on a single GPU - and opening up our API.<p>How did we get a video diffusion model to run in real-time? There was no single trick, just a lot of them stacked together. The first big change was making our model causal. Standard video diffusion models are bidirectional (they look at frames both before and after the current one), which means you can&#x27;t stream.<p>From there it was about fitting everything on one GPU. We switched from full to sliding window attention, which killed our memory bottleneck. We distilled from 40 denoising steps down to just a few - quality degraded less than we feared, especially after using GAN-based distillation (though tuning that adversarial loss to avoid mode collapse was its own adventure).<p>And the rest was inference work: modifying RoPE from complex to real (this one was cool!), precision tuning, fusing kernels, a special rolling KV cache, lots of other caching, and more. We kept shaving off milliseconds wherever we could and eventually got to real-time.<p>We set up a guest playground for HN so you can create and talk to characters without logging in: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;hn\">https:&#x2F;&#x2F;lemonslice.com&#x2F;hn</a>. For those who want to build with our API (we have a new LiveKit integration that we’re pumped about!), grab a coupon code in the HN playground for your first Pro month free ($100 value). See the docs: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;docs\">https:&#x2F;&#x2F;lemonslice.com&#x2F;docs</a>. Pricing is usage-based at $0.12-0.20&#x2F;min for video generation.<p>Looking forward to your feedback!<p>EDIT: Tell us what characters you want to see in the comments and we can make them for you to talk to (e.g. Max Headroom)<p>*We did a Show HN last year for our V1 model: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43785044\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43785044</a>. It was technically impressive but so bad compared to what we have today.",
+      "url": null,
+      "author_username": "lcolucci",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 123,
+      "impressions_reposts": 0,
+      "impressions_replies": 127,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.808589",
+      "published_at": "2026-01-27T12:55:15",
+      "scraped_at": "2026-01-29T19:36:25.808591",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46783600",
+        "kids_count": 40,
+        "sections": [
+          "show_hn"
+        ]
+      },
+      "content_hash": "d73870bad83d37763babc939359327d9",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "ml_research",
+        "primary_topic_label": "ML Research",
+        "all_topics": [
+          "llm",
+          "ml_research",
+          "ai_infra",
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 1,
+            "weighted_score": 1.0,
+            "matched_keywords": [
+              "transformer"
+            ],
+            "label": "Large Language Models"
+          },
+          "ml_research": {
+            "raw_score": 4,
+            "weighted_score": 3.6,
+            "matched_keywords": [
+              "inference",
+              "model",
+              "diffusion",
+              "attention"
+            ],
+            "label": "ML Research"
+          },
+          "ai_infra": {
+            "raw_score": 1,
+            "weighted_score": 0.9,
+            "matched_keywords": [
+              "gpu"
+            ],
+            "label": "AI Infrastructure"
+          },
+          "developer_tools": {
+            "raw_score": 3,
+            "weighted_score": 1.7999999999999998,
+            "matched_keywords": [
+              "ide",
+              "api"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 1,
+            "weighted_score": 0.5,
+            "matched_keywords": [
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.78,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 1.03,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 3.17,
+        "velocity": 2.24,
+        "hours_old": 54.9,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "New ml research project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "55da6156c06cfb1f9b647b3fa49296a5",
+      "source": "hackernews",
+      "source_id": "46818154",
+      "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+      "content": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+      "url": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
+      "author_username": "jbmilgrom",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 6,
+      "impressions_reposts": 0,
+      "impressions_replies": 4,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.177616",
+      "published_at": "2026-01-29T18:06:34",
+      "scraped_at": "2026-01-29T19:36:23.177618",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46818154",
+        "kids_count": 4,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "e7ff58301c8ed26e685c38add0ea9cb9",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "coding agent"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 2,
+            "weighted_score": 1.2,
+            "matched_keywords": [
+              "coding"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.32,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.67,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.0,
+        "velocity": 3.52,
+        "hours_old": 1.7,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    }
+  ],
+  "pool_items": [
+    {
+      "id": "b241a839855521de7cbe83fdb6c6c300",
+      "source": "hackernews",
+      "source_id": "46810282",
+      "title": "Claude Code daily benchmarks for degradation tracking",
+      "content": "Claude Code daily benchmarks for degradation tracking",
+      "url": "https://marginlab.ai/trackers/claude-code/",
+      "author_username": "qwesr123",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 518,
+      "impressions_reposts": 0,
+      "impressions_replies": 261,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.177422",
+      "published_at": "2026-01-29T08:59:07",
+      "scraped_at": "2026-01-29T19:36:23.177425",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46810282",
+        "kids_count": 49,
+        "sections": [
+          "top_stories",
+          "best_stories"
+        ]
+      },
+      "content_hash": "82d59109c6cf5c820c1baa3293a7c735",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "ml_research"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "ml_research": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "benchmark"
+            ],
+            "label": "ML Research"
+          }
+        },
+        "relevance_score": 0.38,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.5,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 5.33,
+        "velocity": 47.83,
+        "hours_old": 10.8,
+        "quality_tier": "trending_must_include"
+      },
+      "editorial": {
+        "one_liner": "Performance/comparison data for large language models",
+        "why_it_matters": "rapidly gaining attention; highly upvoted by HN community",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "1c1c503eb7d9101b948a05817ed7cb0c",
+      "source": "hackernews",
+      "source_id": "46816539",
+      "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "content": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
+      "url": "https://openai.com/index/retiring-gpt-4o-and-older-models/",
+      "author_username": "rd",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 129,
+      "impressions_reposts": 0,
+      "impressions_replies": 193,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.180994",
+      "published_at": "2026-01-29T16:02:31",
+      "scraped_at": "2026-01-29T19:36:23.180996",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46816539",
+        "kids_count": 26,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "f2cd8b66ab06e093b4d7284158f674f2",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 6,
+            "weighted_score": 6.0,
+            "matched_keywords": [
+              "gpt",
+              "openai",
+              "chatgpt"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.6,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 1.5,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 7.42,
+        "velocity": 34.19,
+        "hours_old": 3.8,
+        "quality_tier": "trending_must_include"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "rapidly gaining attention; directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "a9bd97d71dec9637a893af925648483b",
+      "source": "hackernews",
+      "source_id": "46812173",
+      "title": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "content": "US cybersecurity chief leaked sensitive government files to ChatGPT: Report",
+      "url": "https://www.dexerto.com/entertainment/us-cybersecurity-chief-leaked-sensitive-government-files-to-chatgpt-report-3311462/",
+      "author_username": "randycupertino",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 383,
+      "impressions_reposts": 0,
+      "impressions_replies": 201,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.180989",
+      "published_at": "2026-01-29T11:12:19",
+      "scraped_at": "2026-01-29T19:36:23.180990",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46812173",
+        "kids_count": 39,
+        "sections": [
+          "top_stories",
+          "best_stories"
+        ]
+      },
+      "content_hash": "b951e029b2b0903f952e6e0e178df160",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 4,
+            "weighted_score": 4.0,
+            "matched_keywords": [
+              "gpt",
+              "chatgpt"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.4,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.52,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 5.15,
+        "velocity": 44.48,
+        "hours_old": 8.6,
+        "quality_tier": "trending_must_include"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "rapidly gaining attention; highly upvoted by HN community",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "378efbfef36fe3b23da6865e3945bc65",
+      "source": "hackernews",
+      "source_id": "46814569",
+      "title": "My Mom and Dr. DeepSeek (2025)",
+      "content": "My Mom and Dr. DeepSeek (2025)",
+      "url": "https://restofworld.org/2025/ai-chatbot-china-sick/",
+      "author_username": "kieto",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 116,
+      "impressions_reposts": 0,
+      "impressions_replies": 76,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.180745",
+      "published_at": "2026-01-29T13:45:27",
+      "scraped_at": "2026-01-29T19:36:23.180947",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46814569",
+        "kids_count": 24,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "2d5b227c4053cdf6de6c3fc0a053719d",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "deepseek"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.66,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": true,
+        "discussion_depth": 3.17,
+        "velocity": 19.15,
+        "hours_old": 6.1,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "430d785a576ecbe678f57a69aca23601",
+      "source": "hackernews",
+      "source_id": "46812608",
+      "title": "Launch HN: AgentMail (YC S25) – An API that gives agents their own email inboxes",
+      "content": "Hey HN, we&#x27;re Haakam, Michael, and Adi. We&#x27;re building AgentMail (<a href=\"https:&#x2F;&#x2F;agentmail.to\">https:&#x2F;&#x2F;agentmail.to</a>), the email inbox API for agents. We’re not talking about AI for your email, this is email for your AI.<p>Email is an optimal interface for long-running agents. It’s multithreaded and asynchronous with full support for rich text and files. It’s a universal protocol with identity and authentication built in. Moreover, a lot of workflow critical context already lives in email.<p>We wanted to build email agents that you can forward your work to and get back a completed task. The agents could act entirely autonomously as you wouldn&#x27;t need to delegate your identity. If they did get stuck they could just send you, or anyone else, an email.<p>Using Gmail, we kept getting stuck on the limitations of their API. No way to create inboxes programmatically. Rate and sending limits. OAuth for every single inbox. Keyword search that doesn&#x27;t understand context. Per-seat pricing that doesn&#x27;t work for agents.<p>So we built what we wished existed: an email provider for developers. APIs for creating inboxes and configuring domains. Email parsing and threading. Text extraction from attachments. Realtime webhooks and websockets. Semantic search across inboxes. Usage-based pricing that works for agents.<p>Developers, startups, and enterprises are already deploying email agents with AgentMail. Agents that convert conversations and documents into structured data. Agents that source quotes, negotiate prices, and get the best deals. Agents that emulate internet users for training models on end-to-end tasks.<p>Here&#x27;s demo of Clawdbots communicating using AgentMail: <a href=\"https:&#x2F;&#x2F;youtu.be&#x2F;Y0MfUWS3LKQ\" rel=\"nofollow\">https:&#x2F;&#x2F;youtu.be&#x2F;Y0MfUWS3LKQ</a><p>You can get started with AgentMail for free at <a href=\"https:&#x2F;&#x2F;agentmail.to\">https:&#x2F;&#x2F;agentmail.to</a><p>Looking forward to hearing your thoughts and feedback.",
+      "url": null,
+      "author_username": "Haakam21",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 111,
+      "impressions_reposts": 0,
+      "impressions_replies": 125,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.177564",
+      "published_at": "2026-01-29T11:42:33",
+      "scraped_at": "2026-01-29T19:36:23.177566",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46812608",
+        "kids_count": 39,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "2fad6dff620d822e6b3acc46e8e1f237",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "developer_tools",
+        "primary_topic_label": "Developer Tools",
+        "all_topics": [
+          "ml_research",
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "ml_research": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "training",
+              "model"
+            ],
+            "label": "ML Research"
+          },
+          "developer_tools": {
+            "raw_score": 4,
+            "weighted_score": 2.4,
+            "matched_keywords": [
+              "developer",
+              "ide",
+              "api"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 3,
+            "weighted_score": 1.5,
+            "matched_keywords": [
+              "startup",
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.57,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 1.13,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 3.21,
+        "velocity": 13.69,
+        "hours_old": 8.1,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "YC startup launching in developer tools space",
+        "why_it_matters": "worth monitoring",
+        "audience_fit": "Software developers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "ca200f4e223f5503438fb31716c49ce7",
+      "source": "hackernews",
+      "source_id": "46799898",
+      "title": "Show HN: A MitM proxy to see what your LLM tools are sending",
+      "content": "I built this out of curiosity about what Claude Code was actually sending to the API. Turns out, watching your tokens tick up in real-time is oddly satisfying.<p>Sherlock sits between your LLM tools and the API, showing you every request with a live dashboard, and auto-saved copies of every prompt as markdown and json.",
+      "url": "https://github.com/jmuncor/sherlock",
+      "author_username": "jmuncor",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 212,
+      "impressions_reposts": 0,
+      "impressions_replies": 113,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.808438",
+      "published_at": "2026-01-28T13:52:24",
+      "scraped_at": "2026-01-29T19:36:25.808444",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46799898",
+        "kids_count": 31,
+        "sections": [
+          "show_hn"
+        ]
+      },
+      "content_hash": "f60ab88568b7d90542ea35cf52b5d4bf",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 3,
+            "weighted_score": 3.0,
+            "matched_keywords": [
+              "llm",
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 1,
+            "weighted_score": 0.6,
+            "matched_keywords": [
+              "api"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.36,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.53,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 3.65,
+        "velocity": 7.08,
+        "hours_old": 29.9,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "New large language models project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "6d45da37d2fbda24bf72f1b1b553d657",
+      "source": "hackernews",
+      "source_id": "46783600",
+      "title": "Show HN: LemonSlice – Upgrade your voice agents to real-time video",
+      "content": "Hey HN, we&#x27;re the co-founders of LemonSlice (try our HN playground here: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;hn\">https:&#x2F;&#x2F;lemonslice.com&#x2F;hn</a>). We train interactive avatar video models. Our API lets you upload a photo and immediately jump into a FaceTime-style call with that character. Here&#x27;s a demo: <a href=\"https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;941577113141418e80d2834c83a5a0a9\" rel=\"nofollow\">https:&#x2F;&#x2F;www.loom.com&#x2F;share&#x2F;941577113141418e80d2834c83a5a0a9</a><p>Chatbots are everywhere and voice AI has taken off, but we believe video avatars will be the most common form factor for conversational AI. Most people would rather watch something than read it. The problem is that generating video in real-time is hard, and overcoming the uncanny valley is even harder.<p>We haven’t broken the uncanny valley yet. Nobody has. But we’re getting close and our photorealistic avatars are currently best-in-class (judge for yourself: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;taylor\">https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;taylor</a>). Plus, we&#x27;re the only avatar model that can do animals and heavily stylized cartoons. Try it: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;alien\">https:&#x2F;&#x2F;lemonslice.com&#x2F;try&#x2F;alien</a>. Warning! Talking to this little guy may improve your mood.<p>Today we&#x27;re releasing our new model* - Lemon Slice 2, a 20B-parameter diffusion transformer that generates infinite-length video at 20fps on a single GPU - and opening up our API.<p>How did we get a video diffusion model to run in real-time? There was no single trick, just a lot of them stacked together. The first big change was making our model causal. Standard video diffusion models are bidirectional (they look at frames both before and after the current one), which means you can&#x27;t stream.<p>From there it was about fitting everything on one GPU. We switched from full to sliding window attention, which killed our memory bottleneck. We distilled from 40 denoising steps down to just a few - quality degraded less than we feared, especially after using GAN-based distillation (though tuning that adversarial loss to avoid mode collapse was its own adventure).<p>And the rest was inference work: modifying RoPE from complex to real (this one was cool!), precision tuning, fusing kernels, a special rolling KV cache, lots of other caching, and more. We kept shaving off milliseconds wherever we could and eventually got to real-time.<p>We set up a guest playground for HN so you can create and talk to characters without logging in: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;hn\">https:&#x2F;&#x2F;lemonslice.com&#x2F;hn</a>. For those who want to build with our API (we have a new LiveKit integration that we’re pumped about!), grab a coupon code in the HN playground for your first Pro month free ($100 value). See the docs: <a href=\"https:&#x2F;&#x2F;lemonslice.com&#x2F;docs\">https:&#x2F;&#x2F;lemonslice.com&#x2F;docs</a>. Pricing is usage-based at $0.12-0.20&#x2F;min for video generation.<p>Looking forward to your feedback!<p>EDIT: Tell us what characters you want to see in the comments and we can make them for you to talk to (e.g. Max Headroom)<p>*We did a Show HN last year for our V1 model: <a href=\"https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43785044\">https:&#x2F;&#x2F;news.ycombinator.com&#x2F;item?id=43785044</a>. It was technically impressive but so bad compared to what we have today.",
+      "url": null,
+      "author_username": "lcolucci",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 123,
+      "impressions_reposts": 0,
+      "impressions_replies": 127,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.808589",
+      "published_at": "2026-01-27T12:55:15",
+      "scraped_at": "2026-01-29T19:36:25.808591",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46783600",
+        "kids_count": 40,
+        "sections": [
+          "show_hn"
+        ]
+      },
+      "content_hash": "d73870bad83d37763babc939359327d9",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "ml_research",
+        "primary_topic_label": "ML Research",
+        "all_topics": [
+          "llm",
+          "ml_research",
+          "ai_infra",
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 1,
+            "weighted_score": 1.0,
+            "matched_keywords": [
+              "transformer"
+            ],
+            "label": "Large Language Models"
+          },
+          "ml_research": {
+            "raw_score": 4,
+            "weighted_score": 3.6,
+            "matched_keywords": [
+              "inference",
+              "model",
+              "diffusion",
+              "attention"
+            ],
+            "label": "ML Research"
+          },
+          "ai_infra": {
+            "raw_score": 1,
+            "weighted_score": 0.9,
+            "matched_keywords": [
+              "gpu"
+            ],
+            "label": "AI Infrastructure"
+          },
+          "developer_tools": {
+            "raw_score": 3,
+            "weighted_score": 1.7999999999999998,
+            "matched_keywords": [
+              "ide",
+              "api"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 1,
+            "weighted_score": 0.5,
+            "matched_keywords": [
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.78,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 1.03,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 3.17,
+        "velocity": 2.24,
+        "hours_old": 54.9,
+        "quality_tier": "good"
+      },
+      "editorial": {
+        "one_liner": "New ml research project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 3
+      }
+    },
+    {
+      "id": "55da6156c06cfb1f9b647b3fa49296a5",
+      "source": "hackernews",
+      "source_id": "46818154",
+      "title": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+      "content": "What the Success of Coding Agents Teaches Us about AI Systems in General",
+      "url": "https://softwarefordays.com/post/software-is-mostly-all-you-need/",
+      "author_username": "jbmilgrom",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 6,
+      "impressions_reposts": 0,
+      "impressions_replies": 4,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.177616",
+      "published_at": "2026-01-29T18:06:34",
+      "scraped_at": "2026-01-29T19:36:23.177618",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46818154",
+        "kids_count": 4,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "e7ff58301c8ed26e685c38add0ea9cb9",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "coding agent"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 2,
+            "weighted_score": 1.2,
+            "matched_keywords": [
+              "coding"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.32,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.67,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.0,
+        "velocity": 3.52,
+        "hours_old": 1.7,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "8ae0f00798ea1d90834c53a88b313a4f",
+      "source": "hackernews",
+      "source_id": "46818843",
+      "title": "Nvidia helped DeepSeek hone AI models later used by China's military",
+      "content": "Nvidia helped DeepSeek hone AI models later used by China's military",
+      "url": "https://www.reuters.com/world/china/nvidia-helped-deepseek-hone-ai-models-later-used-by-chinas-military-lawmaker-2026-01-28/",
+      "author_username": "DustinEchoes",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 3,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.343356",
+      "published_at": "2026-01-29T19:10:44",
+      "scraped_at": "2026-01-29T19:36:25.343358",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46818843",
+        "kids_count": 0,
+        "sections": [
+          "new_stories"
+        ]
+      },
+      "content_hash": "491622105e5c9467865f252d357622d0",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "ml_research",
+          "ai_infra"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "deepseek"
+            ],
+            "label": "Large Language Models"
+          },
+          "ml_research": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "model"
+            ],
+            "label": "ML Research"
+          },
+          "ai_infra": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "nvidia"
+            ],
+            "label": "AI Infrastructure"
+          }
+        },
+        "relevance_score": 0.56,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 3.0,
+        "hours_old": 0.6,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "3fcdfca86c5a649d876a0b292882b53d",
+      "source": "hackernews",
+      "source_id": "46779922",
+      "title": "Show HN: ShapedQL – A SQL engine for multi-stage ranking and RAG",
+      "content": "Hi HN,<p>I’m Tullie, founder of Shaped. Previously, I was a researcher at Meta AI, worked on ranking for Instagram Reels, and was a contributor to PyTorch Lightning.<p>We built ShapedQL because we noticed that while retrieval (finding 1,000 items) has been commoditized by vector DBs, ranking (finding the best 10 items) is still an infrastructure problem.<p>To build a decent for you feed or a RAG system with long-term memory, you usually have to put together a vector DB (Pinecone&#x2F;Milvus), a feature store (Redis), an inference service, and thousands of lines of Python to handle business logic and reranking.<p>We built an engine that consolidates this into a single SQL dialect. It compiles declarative queries into high-performance, multi-stage ranking pipelines.<p>HOW IT WORKS:<p>Instead of just SELECT <i>, ShapedQL operates in four stages native to recommendation systems:<p>RETRIEVE: Fetch candidates via Hybrid Search (Keywords + Vectors) or Collaborative Filtering.\nFILTER: Apply hard constraints (e.g., &quot;inventory &gt; 0&quot;).\nSCORE: Rank results using real-time models (e.g., p(click) or p(relevance)).\nREORDER: Apply diversity logic so your Agent&#x2F;User doesn’t see 10 nearly identical results.<p>THE SYNTAX: Here is what a RAG query looks like. This replaces about 500 lines of standard Python&#x2F;LangChain code:<p>SELECT item_id, description, price<p>FROM<p><pre><code>  -- Retrieval: Hybrid search across multiple indexes\n\n  search_flights(&quot;$param.user_prompt&quot;, &quot;$param.context&quot;),\n\n  search_hotels(&quot;$param.user_prompt&quot;, &quot;$param.context&quot;)\n</code></pre>\nWHERE<p><pre><code>  -- Filtering: Hard business constraints\n\n  price &lt;= &quot;$param.budget&quot; AND is_available(&quot;$param.dates&quot;)\n</code></pre>\nORDER BY<p><pre><code>  -- Scoring: Real-time reranking (Personalization + Relevance)\n\n  0.5 * preference_score(user, item) +\n\n  0.3 * relevance_score(item, &quot;$param.user_prompt&quot;)\n</code></pre>\nLIMIT 20<p>If you don’t like SQL, you can also use our Python and Typescript SDKs. I’d love to know what you think of the syntax and the abstraction layer!</i>",
+      "url": "https://playground.shaped.ai",
+      "author_username": "tullie",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 70,
+      "impressions_reposts": 0,
+      "impressions_replies": 21,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.181226",
+      "published_at": "2026-01-27T08:54:09",
+      "scraped_at": "2026-01-29T19:36:23.181228",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46779922",
+        "kids_count": 9,
+        "sections": [
+          "top_stories",
+          "show_hn"
+        ]
+      },
+      "content_hash": "67aa6602574735e4b0995c7704ab6cb7",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "ml_research",
+        "primary_topic_label": "ML Research",
+        "all_topics": [
+          "ml_research",
+          "developer_tools",
+          "data_engineering"
+        ],
+        "topic_details": {
+          "ml_research": {
+            "raw_score": 3,
+            "weighted_score": 2.7,
+            "matched_keywords": [
+              "inference",
+              "model",
+              "vector"
+            ],
+            "label": "ML Research"
+          },
+          "developer_tools": {
+            "raw_score": 2,
+            "weighted_score": 1.2,
+            "matched_keywords": [
+              "ide",
+              "sdk"
+            ],
+            "label": "Developer Tools"
+          },
+          "data_engineering": {
+            "raw_score": 2,
+            "weighted_score": 1.0,
+            "matched_keywords": [
+              "sql"
+            ],
+            "label": "Data Engineering"
+          }
+        },
+        "relevance_score": 0.49,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.3,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": true,
+        "discussion_depth": 2.33,
+        "velocity": 1.19,
+        "hours_old": 58.9,
+        "quality_tier": "moderate"
+      },
+      "editorial": {
+        "one_liner": "New ml research project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "a6da0551295d36de2693fa4e301df21d",
+      "source": "hackernews",
+      "source_id": "46818815",
+      "title": "A Mild Take on Coding Agents",
+      "content": "A Mild Take on Coding Agents",
+      "url": "https://meelo.substack.com/p/a-mild-take-on-coding-agents",
+      "author_username": "milowata",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 2,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.343369",
+      "published_at": "2026-01-29T19:07:09",
+      "scraped_at": "2026-01-29T19:36:25.343370",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46818815",
+        "kids_count": 0,
+        "sections": [
+          "new_stories"
+        ]
+      },
+      "content_hash": "d1c9be345282ed6935f3b9e0c9fd3c30",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "coding agent"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 2,
+            "weighted_score": 1.2,
+            "matched_keywords": [
+              "coding"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.32,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 2.0,
+        "hours_old": 0.7,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "d1018b9166fdb0ed2ca12e30d66ecc82",
+      "source": "hackernews",
+      "source_id": "46812909",
+      "title": "Show HN: Autonomous recovery for distributed training jobs",
+      "content": "Hi HN! We’re TensorPool. We help companies access and optimize large scale compute for training foundation models.<p>The Problem<p>It’s been almost a year since we’ve finished YC, and we’ve just crossed 100,000 multinode training GPU hours run on our platform.<p>On those training runs, we’ve seen countless 3am job crashes because of issues like an Xid error from a flaky GPU or an S3 timeout that corrupted a checkpoint save. By the time you wake up and notice, you&#x27;ve lost 8+ hours of compute. You scramble to diagnose the issue, manually restart from the last checkpoint, and hope it doesn&#x27;t happen again. Rinse and repeat.<p>For training runs that take days to weeks, this constant babysitting is exhausting and expensive. The research iteration cycles lost can also make or break a model release (especially for short reservations).<p>What We Built<p>This agent monitors your training jobs and autonomously recovers them when things go wrong. It works with Kubernetes, Slurm, and TensorPool Jobs.<p>We originally built the TensorPool Agent as an internal tool to help us debug failures with our own customers. Over time, we realized its performance was so good that we could automate the entire triage process. We&#x27;re now releasing a public beta for people to use.<p>Best case: The TensorPool Agent detects the failure, diagnoses the root cause, fixes it, and restarts your job from the last checkpoint – all while you sleep ;)<p>Worst case: If the TensorPool agent can&#x27;t fix the issue automatically, it delivers a preliminary RCA and a list of actions it attempted, giving you a head start on debugging.<p>How It Works<p>1) Registration – You provide credentials to your job scheduler via our dashboard. Perms are granted on a whitelist basis; you explicitly control what actions the agent can take.<p>2) Monitoring – The agent continuously monitors your job for failure conditions.<p>3) Recovery – On failure, the agent analyzes logs and attempts to diagnose the issue. If successful, it restarts the job from the last checkpoint and resumes monitoring. If not, you get an alert with full context.<p>Target Failure Modes<p>The agent is specifically designed for runtime errors that occur deep into training, like:<p>- CUDA OOM: Memory leaks, gradient explosions<p>- Xid errors: GPU hardware faults (Xid 79, 63, 48, etc.)<p>- Distributed communication failures: NCCL timeouts, rank failures<p>- Storage I&#x2F;O errors: Checkpoint corruption<p>- Network issues: S3 request timeouts on mounted object storage",
+      "url": "https://docs.tensorpool.dev/features/agent",
+      "author_username": "tsvoboda",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 7,
+      "impressions_reposts": 0,
+      "impressions_replies": 3,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.181248",
+      "published_at": "2026-01-29T12:01:31",
+      "scraped_at": "2026-01-29T19:36:23.181249",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46812909",
+        "kids_count": 2,
+        "sections": [
+          "top_stories",
+          "show_hn"
+        ]
+      },
+      "content_hash": "cf841a38d714a49f66493839ee67f476",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "ml_research",
+        "primary_topic_label": "ML Research",
+        "all_topics": [
+          "ml_research",
+          "ai_infra",
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "ml_research": {
+            "raw_score": 3,
+            "weighted_score": 2.7,
+            "matched_keywords": [
+              "training",
+              "model"
+            ],
+            "label": "ML Research"
+          },
+          "ai_infra": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "gpu",
+              "cuda"
+            ],
+            "label": "AI Infrastructure"
+          },
+          "developer_tools": {
+            "raw_score": 1,
+            "weighted_score": 0.6,
+            "matched_keywords": [
+              "ide"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 1,
+            "weighted_score": 0.5,
+            "matched_keywords": [
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.56,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.43,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.5,
+        "velocity": 0.9,
+        "hours_old": 7.8,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "New ml research project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "862e1dcd3740a1aa8bd5d4be8007168a",
+      "source": "hackernews",
+      "source_id": "46760285",
+      "title": "Tell HN: I cut Claude API costs from $70/month to pennies",
+      "content": "The first time I pulled usage costs after running Chatter.Plus - a tool I&#x27;m building that aggregates community feedback from Discord&#x2F;GitHub&#x2F;forums - for a day hours, I saw $2.30. Did the math. $70&#x2F;month. $840&#x2F;year. For one instance. Felt sick.<p>I&#x27;d done napkin math beforehand, so I knew it was probably a bug, but still. Turns out it was only partially a bug. The rest was me needing to rethink how I built this thing.\nSpent the next couple days ripping it apart. Making tweaks, testing with live data, checking results, trying again. What I found was I was sending API requests too often and not optimizing what I was sending and receiving.<p>Here&#x27;s what moved the needle, roughly big to small (besides that bug that was costin me a buck a day alone):<p>- Dropped Claude Sonnet entirely - tested both models on the same data, Haiku actually performed better at a third of the cost<p>- Started batching everything - hourly calls were a money fire<p>- Filter before the AI - &quot;lol&quot; and &quot;thanks&quot; are a lot of online chatter. I was paying AI to tell me that&#x27;s not feedback. That said, I still process agreements like &quot;+1&quot; and &quot;me too.&quot;<p>- Shorter outputs - &quot;H&#x2F;M&#x2F;L&quot; instead of &quot;high&#x2F;medium&#x2F;low&quot;, 40-char title recommendation<p>- Strip code snippets before processing - just reiterating the issue and bloating the call<p>End of the week: pennies a day. Same quality.<p>I&#x27;m not building a VC-backed app that can run at a loss for years. I&#x27;m unemployed, trying to build something that might also pay rent. The math has to work from day one.<p>The upside: these savings let me 3x my pricing tier limits and add intermittent quality checks. Headroom I wouldn&#x27;t have had otherwise.<p>Happy to answer questions.",
+      "url": null,
+      "author_username": "ok_orco",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 40,
+      "impressions_reposts": 0,
+      "impressions_replies": 25,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.593605",
+      "published_at": "2026-01-25T19:34:17",
+      "scraped_at": "2026-01-29T19:36:25.593607",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46760285",
+        "kids_count": 9,
+        "sections": [
+          "ask_hn"
+        ]
+      },
+      "content_hash": "ec4ebd09559c8b5af271ee577423957f",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "ml_research",
+          "ai_infra",
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "ml_research": {
+            "raw_score": 1,
+            "weighted_score": 0.9,
+            "matched_keywords": [
+              "model"
+            ],
+            "label": "ML Research"
+          },
+          "ai_infra": {
+            "raw_score": 1,
+            "weighted_score": 0.9,
+            "matched_keywords": [
+              "tpu"
+            ],
+            "label": "AI Infrastructure"
+          },
+          "developer_tools": {
+            "raw_score": 3,
+            "weighted_score": 1.7999999999999998,
+            "matched_keywords": [
+              "ide",
+              "api"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 1,
+            "weighted_score": 0.5,
+            "matched_keywords": [
+              "vc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.61,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.62,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 2.78,
+        "velocity": 0.42,
+        "hours_old": 96.2,
+        "quality_tier": "moderate"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "ea0151bbfa087975067854a679d3c56c",
+      "source": "hackernews",
+      "source_id": "46770887",
+      "title": "Ask HN: How to prevent Claude/GPT/Gemini from reinforcing your biases?",
+      "content": "Lately i&#x27;ve been experimenting with this template in Claude&#x27;s default prompt\n```\nWhen I ask a question, give me at least two plausible but contrasting perspectives, even if one seems dominant. Make me aware of assumptions behind each.\n```<p>I find it annoying coz A) it compromises brevity B) sometimes the plausible answers are so good, it forces me to think<p>What have you tried so far?",
+      "url": null,
+      "author_username": "akshay326",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 29,
+      "impressions_reposts": 0,
+      "impressions_replies": 22,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.593586",
+      "published_at": "2026-01-26T15:15:18",
+      "scraped_at": "2026-01-29T19:36:25.593589",
+      "metadata": {
+        "item_type": "ask_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46770887",
+        "kids_count": 8,
+        "sections": [
+          "ask_hn"
+        ]
+      },
+      "content_hash": "fe004d0f8dc7e5922247f02ad3c25329",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "ai_ethics"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 6,
+            "weighted_score": 6.0,
+            "matched_keywords": [
+              "gpt",
+              "claude",
+              "gemini"
+            ],
+            "label": "Large Language Models"
+          },
+          "ai_ethics": {
+            "raw_score": 2,
+            "weighted_score": 1.6,
+            "matched_keywords": [
+              "bias"
+            ],
+            "label": "AI Ethics & Safety"
+          }
+        },
+        "relevance_score": 0.76,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.76,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 2.75,
+        "velocity": 0.38,
+        "hours_old": 76.6,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Community discussion on large language models",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "b9bd1b0cbfa82d0818435948f7ac90fd",
+      "source": "hackernews",
+      "source_id": "46791551",
+      "title": "Ask HN: Vibe Researching\" with AI – Anyone Using It for Real?",
+      "content": "The concept of &quot;vibe researching&quot; – using AI to rapidly explore, synthesize literature, and generate novel research ideas or frameworks – seems promising. Beyond just literature reviews, it could act as a brainstorming co-pilot.<p>Has anyone here seriously used AI (e.g., Claude for long-context paper analysis, custom GPTs on arXiv, or specialized agents) to aid in hypothesis generation, research gap identification, or drafting substantive parts of a paper?<p>What are the biggest pitfalls regarding accuracy, hallucination of citations, or superficial understanding of complex theory? How do you validate the AI&#x27;s output?<p>Do you see it as a legitimate accelerator for early-stage research, or more of a productivity tool for mundane tasks? Any success stories linking it to a tangible research outcome?<p>Looking for honest experiences from academics, industry researchers, or solo discoverers.",
+      "url": null,
+      "author_username": "spenceXu",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 8,
+      "impressions_reposts": 0,
+      "impressions_replies": 5,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.593450",
+      "published_at": "2026-01-28T00:50:46",
+      "scraped_at": "2026-01-29T19:36:25.593451",
+      "metadata": {
+        "item_type": "ask_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46791551",
+        "kids_count": 5,
+        "sections": [
+          "ask_hn"
+        ]
+      },
+      "content_hash": "5fe0ece2083e415d855bd4f00404e5db",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "ai_infra",
+          "ai_ethics",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "gpt",
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "ai_infra": {
+            "raw_score": 1,
+            "weighted_score": 0.9,
+            "matched_keywords": [
+              "tpu"
+            ],
+            "label": "AI Infrastructure"
+          },
+          "ai_ethics": {
+            "raw_score": 1,
+            "weighted_score": 0.8,
+            "matched_keywords": [
+              "hallucination"
+            ],
+            "label": "AI Ethics & Safety"
+          },
+          "developer_tools": {
+            "raw_score": 3,
+            "weighted_score": 1.7999999999999998,
+            "matched_keywords": [
+              "ide",
+              "api",
+              "framework"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.55,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.62,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.0,
+        "velocity": 0.19,
+        "hours_old": 43.0,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Community discussion on large language models",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 4
+      }
+    },
+    {
+      "id": "6d326ad7717a6e428d516f268ad0f488",
+      "source": "hackernews",
+      "source_id": "46815899",
+      "title": "Agent-shell: A native Emacs buffer to interact with LLM agents powered by ACP",
+      "content": "Agent-shell: A native Emacs buffer to interact with LLM agents powered by ACP",
+      "url": "https://github.com/xenodium/agent-shell",
+      "author_username": "trelane",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 20,
+      "impressions_reposts": 0,
+      "impressions_replies": 3,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:23.181058",
+      "published_at": "2026-01-29T15:11:26",
+      "scraped_at": "2026-01-29T19:36:23.181059",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46815899",
+        "kids_count": 3,
+        "sections": [
+          "top_stories"
+        ]
+      },
+      "content_hash": "4a23eaa00d89648dd90a1c5ae49e7ba4",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "llm"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.15,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.0,
+        "velocity": 4.32,
+        "hours_old": 4.6,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "07433f663cc2dd7552dc084a53af0293",
+      "source": "hackernews",
+      "source_id": "46817278",
+      "title": "Show HN: We review YC applications for free – with feedback from YC founders",
+      "content": "Hi HN,\nWe just launched YC Roaster, a free YC application review service run by Lobster Capital.\nIf you’re applying to Y Combinator, you can submit your application and get written feedback from founders who’ve actually gone through YC and built real companies.\nHow it works\n* You submit your YC application (PDF)\n* It’s reviewed by successful YC founders in our network\n* Everyone gets written feedback\n* If we think you have a strong shot, we offer a short 1-on-1 Zoom call\nWhy are we doing this for free? Lobster Capital is a VC fund that exclusively invests in YC companies. We’ve reviewed hundreds of YC applications over the years and backed 100+ YC startups. This is our way of giving back, and hopefully helping more strong teams get in.\nThere’s no guarantee of acceptance, no pitch requirement, and no obligation to talk to us afterward.\nWhat we’re curious about\n* What parts of the YC application do founders struggle with the most?\n* What feedback have you found most useful when applying?\nWebsite: <a href=\"https:&#x2F;&#x2F;www.ycroaster.com\" rel=\"nofollow\">https:&#x2F;&#x2F;www.ycroaster.com</a>\nHappy to answer questions or take feedback (including criticism).",
+      "url": "https://www.ycroaster.com",
+      "author_username": "gjarrosson",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 3,
+      "impressions_reposts": 0,
+      "impressions_replies": 2,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.808072",
+      "published_at": "2026-01-29T16:57:41",
+      "scraped_at": "2026-01-29T19:36:25.808075",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46817278",
+        "kids_count": 1,
+        "sections": [
+          "show_hn"
+        ]
+      },
+      "content_hash": "c4bd627ea056767961afcc3d6ba946dc",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "tech_industry",
+        "primary_topic_label": "Tech Industry",
+        "all_topics": [
+          "developer_tools",
+          "tech_industry"
+        ],
+        "topic_details": {
+          "developer_tools": {
+            "raw_score": 1,
+            "weighted_score": 0.6,
+            "matched_keywords": [
+              "api"
+            ],
+            "label": "Developer Tools"
+          },
+          "tech_industry": {
+            "raw_score": 4,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "startup",
+              "yc",
+              "vc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.26,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.67,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 2.0,
+        "velocity": 1.05,
+        "hours_old": 2.9,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "New tech industry project worth checking out",
+        "why_it_matters": "worth monitoring",
+        "audience_fit": "Tech industry watchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "77ca1da111cb3c72d46cc9a014f8f13e",
+      "source": "hackernews",
+      "source_id": "46819057",
+      "title": "Apple confirms Gemini-powered Siri will use Private Cloud",
+      "content": "Apple confirms Gemini-powered Siri will use Private Cloud",
+      "url": "https://9to5mac.com/2026/01/29/apple-confirms-gemini-powered-siri-will-use-private-cloud-compute/",
+      "author_username": "alwillis",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 1,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.343097",
+      "published_at": "2026-01-29T19:34:30",
+      "scraped_at": "2026-01-29T19:36:25.343112",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46819057",
+        "kids_count": 0,
+        "sections": [
+          "new_stories"
+        ]
+      },
+      "content_hash": "ea2b4c12c253426f879ba0e1b9e39382",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "gemini"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 1.0,
+        "hours_old": 0.2,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "f3b705c9600c3325f83af5bbb13913d4",
+      "source": "hackernews",
+      "source_id": "46819003",
+      "title": "Show HN: Vibe Language – A messenger for language learners",
+      "content": "My girlfriend and I wanted to text each other in the language we&#x27;re learning. Tried WhatsApp but kept copy-pasting to ChatGPT. Too much friction.<p>So I built a simple messenger with AI built in:<p>- Helps you write before you send (translate or improve)<p>- Explains any message you receive<p>- Save expressions and review later<p>iOS only for now. Free.<p>Would love technical feedback or ideas.",
+      "url": "https://apps.apple.com/us/app/vibe-language/id6755855488",
+      "author_username": "osd2030",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 1,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.343246",
+      "published_at": "2026-01-29T19:29:00",
+      "scraped_at": "2026-01-29T19:36:25.343248",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46819003",
+        "kids_count": 0,
+        "sections": [
+          "new_stories"
+        ]
+      },
+      "content_hash": "5feab5943b32058b0d162cc5d404106a",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "gpt",
+              "chatgpt"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 1,
+            "weighted_score": 0.6,
+            "matched_keywords": [
+              "ide"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.26,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 1.0,
+        "hours_old": 0.3,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "New large language models project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "374438203e3ab2a1e0857d389375ebce",
+      "source": "hackernews",
+      "source_id": "46818968",
+      "title": "Open-Source Alternative to Claude Cowork Desktop App",
+      "content": "Open-Source Alternative to Claude Cowork Desktop App",
+      "url": "https://github.com/kuse-ai/kuse_cowork",
+      "author_username": "blackcat201",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 1,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.343302",
+      "published_at": "2026-01-29T19:25:00",
+      "scraped_at": "2026-01-29T19:36:25.343304",
+      "metadata": {
+        "item_type": "story",
+        "hn_url": "https://news.ycombinator.com/item?id=46818968",
+        "kids_count": 0,
+        "sections": [
+          "new_stories"
+        ]
+      },
+      "content_hash": "1e996dfd692d652b1fd553c8e2072334",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 2,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "claude"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 1.0,
+        "hours_old": 0.4,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Large Language Models insight worth reading",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "cf2df2f53debfd5191ea78f28c46424a",
+      "source": "hackernews",
+      "source_id": "46807308",
+      "title": "Ask HN: How far has \"vibe coding\" come?",
+      "content": "I’m trying to understand where “vibe coding” realistically stands today.<p>The project I’m currently working on is getting close to 60k lines of code, with fairly complex business logic. From what I’ve heard, at this scale only a few tools (like Claude’s desktop app) are genuinely helpful, so I haven’t experimented much with other AI coding services.<p>At the same time, I keep seeing posts about people building 20k lines of code and launching a SaaS in a single 40-hour weekend. That’s made me question whether I’m being overly cautious, or just operating under outdated assumptions.<p>I already rely on AI quite a bit, and one clear benefit is that I now understand parts of the codebase that I previously wrote without fully grasping. Still, at my current pace, it feels like I’ll need several more months of development, followed by several more months of testing, before this can become a real production service. And that testing doesn’t feel optional.<p>Meanwhile, products that are described as being “vibe coded” don’t seem to be getting particularly negative evaluations.<p>So I’m wondering how people here think about this now.\nIs “you don’t really understand the code, so it’ll hurt you later” still a meaningful criticism?\nOr are we reaching a point where the default approach to building software itself needs to change?<p>I’d especially appreciate perspectives from people working on larger or more complex systems.",
+      "url": null,
+      "author_username": "pigon1002",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 8,
+      "impressions_reposts": 0,
+      "impressions_replies": 20,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.593312",
+      "published_at": "2026-01-29T03:29:38",
+      "scraped_at": "2026-01-29T19:36:25.593314",
+      "metadata": {
+        "item_type": "ask_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46807308",
+        "kids_count": 10,
+        "sections": [
+          "ask_hn"
+        ]
+      },
+      "content_hash": "14e0bf1748dfca3320cce411ed9ec863",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "developer_tools",
+        "primary_topic_label": "Developer Tools",
+        "all_topics": [
+          "llm",
+          "developer_tools"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 1,
+            "weighted_score": 1.0,
+            "matched_keywords": [
+              "claude"
+            ],
+            "label": "Large Language Models"
+          },
+          "developer_tools": {
+            "raw_score": 2,
+            "weighted_score": 1.2,
+            "matched_keywords": [
+              "coding"
+            ],
+            "label": "Developer Tools"
+          }
+        },
+        "relevance_score": 0.22,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 2.5,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 2.0,
+        "velocity": 0.49,
+        "hours_old": 16.3,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Community discussion on developer tools",
+        "why_it_matters": "worth monitoring",
+        "audience_fit": "Software developers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "9b683f124cca6e2dc414df85cc95582b",
+      "source": "hackernews",
+      "source_id": "46801311",
+      "title": "Ask HN: Has Show HN become LLM-prompt-centric?",
+      "content": "It seems to me that Show HN is filled with low-effort see-what-I-prompted-Claude posts—no innovation, no real creation, just yet another copy of a copy. If you’re going to prompt an LLM, at least come up with something original, not the millionth text editor.",
+      "url": null,
+      "author_username": "piratesAndSons",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 8,
+      "impressions_reposts": 0,
+      "impressions_replies": 3,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.593464",
+      "published_at": "2026-01-28T15:51:27",
+      "scraped_at": "2026-01-29T19:36:25.593466",
+      "metadata": {
+        "item_type": "ask_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46801311",
+        "kids_count": 2,
+        "sections": [
+          "ask_hn"
+        ]
+      },
+      "content_hash": "8bc90dd79a2bf36f480b3aa471e3067e",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "llm",
+        "primary_topic_label": "Large Language Models",
+        "all_topics": [
+          "llm"
+        ],
+        "topic_details": {
+          "llm": {
+            "raw_score": 3,
+            "weighted_score": 3.0,
+            "matched_keywords": [
+              "llm",
+              "claude"
+            ],
+            "label": "Large Language Models"
+          }
+        },
+        "relevance_score": 0.3,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.38,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.5,
+        "velocity": 0.29,
+        "hours_old": 28.0,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "New large language models project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "c3e456591718f457203b1996ba9f515a",
+      "source": "hackernews",
+      "source_id": "46789645",
+      "title": "Show HN: Pinecone Explorer – Desktop GUI for the Pinecone vector database",
+      "content": "<a href=\"https:&#x2F;&#x2F;github.com&#x2F;stepandel&#x2F;pinecone-explorer\" rel=\"nofollow\">https:&#x2F;&#x2F;github.com&#x2F;stepandel&#x2F;pinecone-explorer</a>",
+      "url": "https://www.pinecone-explorer.com",
+      "author_username": "arsentjev",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 20,
+      "impressions_reposts": 0,
+      "impressions_replies": 3,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:25.808583",
+      "published_at": "2026-01-27T20:06:32",
+      "scraped_at": "2026-01-29T19:36:25.808584",
+      "metadata": {
+        "item_type": "show_hn",
+        "hn_url": "https://news.ycombinator.com/item?id=46789645",
+        "kids_count": 3,
+        "sections": [
+          "show_hn"
+        ]
+      },
+      "content_hash": "6306be3c743e181f8ac83b6efe27afcf",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "ml_research",
+        "primary_topic_label": "ML Research",
+        "all_topics": [
+          "ml_research",
+          "data_engineering"
+        ],
+        "topic_details": {
+          "ml_research": {
+            "raw_score": 2,
+            "weighted_score": 1.8,
+            "matched_keywords": [
+              "vector"
+            ],
+            "label": "ML Research"
+          },
+          "data_engineering": {
+            "raw_score": 2,
+            "weighted_score": 1.0,
+            "matched_keywords": [
+              "database"
+            ],
+            "label": "Data Engineering"
+          }
+        },
+        "relevance_score": 0.28,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.15,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1.0,
+        "velocity": 0.42,
+        "hours_old": 47.7,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "New ml research project worth checking out",
+        "why_it_matters": "directly relevant to AI practitioners",
+        "audience_fit": "AI engineers & researchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "e59f05a69f0fa1a43763908987f8421d",
+      "source": "hackernews",
+      "source_id": "46805439",
+      "title": "Questom (YC F25) is hiring an engineer",
+      "content": "Questom (YC F25) is hiring an engineer",
+      "url": "https://www.ycombinator.com/companies/questom/jobs/UBebsyO-founding-engineer",
+      "author_username": "ritanshu",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 1,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:26.044365",
+      "published_at": "2026-01-28T22:29:53",
+      "scraped_at": "2026-01-29T19:36:26.044373",
+      "metadata": {
+        "item_type": "job",
+        "hn_url": "https://news.ycombinator.com/item?id=46805439",
+        "kids_count": 0,
+        "sections": [
+          "jobs"
+        ]
+      },
+      "content_hash": "2df1585073f517d2e0852427becd8ed0",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "tech_industry",
+        "primary_topic_label": "Tech Industry",
+        "all_topics": [
+          "tech_industry"
+        ],
+        "topic_details": {
+          "tech_industry": {
+            "raw_score": 4,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "hiring",
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 0.05,
+        "hours_old": 21.3,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Tech Industry insight worth reading",
+        "why_it_matters": "worth monitoring",
+        "audience_fit": "Tech industry watchers",
+        "newsletter_priority": 5
+      }
+    },
+    {
+      "id": "c121827cef6d5b332b083a28aa263a39",
+      "source": "hackernews",
+      "source_id": "46794231",
+      "title": "Kyber (YC W23) Is Hiring a Staff Engineer",
+      "content": "Kyber (YC W23) Is Hiring a Staff Engineer",
+      "url": "https://www.ycombinator.com/companies/kyber/jobs/GPJkv5v-staff-engineer-tech-lead",
+      "author_username": "asontha",
+      "author_category": "unknown",
+      "media": [],
+      "impressions_views": null,
+      "impressions_likes": 1,
+      "impressions_reposts": 0,
+      "impressions_replies": 0,
+      "impressions_bookmarks": null,
+      "impressions_clicks": null,
+      "impressions_quotes": null,
+      "impressions_updated_at": "2026-01-29T19:36:26.044379",
+      "published_at": "2026-01-28T07:00:08",
+      "scraped_at": "2026-01-29T19:36:26.044381",
+      "metadata": {
+        "item_type": "job",
+        "hn_url": "https://news.ycombinator.com/item?id=46794231",
+        "kids_count": 0,
+        "sections": [
+          "jobs"
+        ]
+      },
+      "content_hash": "5f21108d1ef56ed6870de25b4b222231",
+      "classification": {
+        "is_ai_relevant": true,
+        "primary_topic": "tech_industry",
+        "primary_topic_label": "Tech Industry",
+        "all_topics": [
+          "tech_industry"
+        ],
+        "topic_details": {
+          "tech_industry": {
+            "raw_score": 4,
+            "weighted_score": 2.0,
+            "matched_keywords": [
+              "hiring",
+              "yc"
+            ],
+            "label": "Tech Industry"
+          }
+        },
+        "relevance_score": 0.2,
+        "is_noise": false,
+        "filter_reason": null
+      },
+      "engagement_quality": {
+        "engagement_ratio": 0.0,
+        "is_flamewar": false,
+        "is_high_signal": false,
+        "is_emerging": false,
+        "discussion_depth": 1,
+        "velocity": 0.03,
+        "hours_old": 36.8,
+        "quality_tier": "low"
+      },
+      "editorial": {
+        "one_liner": "Tech Industry insight worth reading",
+        "why_it_matters": "worth monitoring",
+        "audience_fit": "Tech industry watchers",
+        "newsletter_priority": 5
+      }
+    }
+  ],
+  "filtered_out": {
+    "noise": [
+      {
+        "title": "PlayStation 2 Recompilation Project Is Absolutely Incredible",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Grid: Forever free, local-first, browser-based 3D printing/CNC/laser slicer",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Drug trio found to block tumour resistance in pancreatic cancer",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Where to Sleep in LAX",
+        "reason": "noise_keyword: sleep in lax"
+      },
+      {
+        "title": "Flameshot",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Compressed Agents.md > Agent Skills",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "The WiFi only works when it's raining (2024)",
+        "reason": "noise_keyword: wifi only works"
+      },
+      {
+        "title": "Cutting Up Curved Things (With Math)",
+        "reason": "noise_keyword: curved things"
+      },
+      {
+        "title": "The Value of Things",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "A lot of population numbers are fake",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Is the RAM shortage killing small VPS hosts?",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "County pays $600k to pentesters it arrested for assessing courthouse security",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Waymo robotaxi hits a child near an elementary school in Santa Monica",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "EmulatorJS",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Run Clawdbot/Moltbot on Cloudflare with Moltworker",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "How to choose colors for your CLI applications (2023)",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "The passive in English (2011)",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: Kolibri, a DIY music club in Sweden",
+        "reason": "noise_keyword: music club"
+      },
+      {
+        "title": "Box64 Expands into RISC-V and LoongArch territory",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Employers, please use postmarked letters for job applications",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "AI's impact on engineering jobs may be different than expected",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "C++ Modules Are Here to Stay",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Heating homes with the largest particle accelerator",
+        "reason": "noise_keyword: heating homes"
+      },
+      {
+        "title": "Europe’s next-generation weather satellite sends back first images",
+        "reason": "noise_keyword: weather satellite"
+      },
+      {
+        "title": "Networks Hold the Key to a Decades-Old Problem About Waves",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Making niche solutions is the point",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Automating Image Compression",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "We can’t send mail farther than 500 miles (2002)",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "EFF to Close Friday in Solidarity with National Shutdown",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Playing Board Games with Deep Convolutional Neural Network on 8bit Motorola 6809",
+        "reason": "noise_keyword: board games"
+      },
+      {
+        "title": "Apple to soon take up to 30% cut from all Patreon creators in iOS app",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Is America's Cyber Weakness Self-Inflicted?",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Break Me If You Can: Exploiting PKO and Relay Attacks in 3DES/AES NFC",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Gourmand Syndrome",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Waabi raises $1B and expands into robotaxis with Uber",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Microsoft forced me to switch to Linux",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Amazon cuts 16k jobs",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Please don't say mean things about the AI I just invested a billion dollars in",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Somebody used spoofed ADSB signals to raster the meme of JD Vance",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Airfoil (2024)",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "ICE and Palantir: US agents using health data to hunt illegal immigrants",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "UK Government’s ‘AI Skills Hub’ was delivered by PwC for £4.1M",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Mermaid ASCII: Render Mermaid diagrams in your terminal",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: The HN Arcade",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "ASML staffing changes could result in a net reduction of around 1700 positions",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "That's not how email works",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "The tech market is fundamentally fucked up and AI is just a scapegoat",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Android’s desktop interface leaks",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Super Monkey Ball ported to a website",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Rust at Scale: An Added Layer of Security for WhatsApp",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Make.ts",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "We Should Eradicate the Empty String – Here's Why",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "ArcaOS is a proprietary operating system based on OS/2",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "A Simple Method for Accelerating Grokking",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Voice Censorship",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "9front OS",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Turn meeting notes into Beautiful professional docs",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Peter H. Duesberg, 89, Renowned Biologist Turned HIV Denialist, Dies",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "HamClock has reached end-of-life",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Pull Request Stacks [Preview]",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "KolibriOS is a tiny yet powerful and fast operating system",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "OpenSSL v3.6.1",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Not all ultra-processed foods are created equal: a review",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Multi-agent systems that learn",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Waymo Approved to Begin Passenger Service at SFO",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "A Paradigm Shift in Microbial Protein Manufacturing",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "The Joy of Clothes",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Body Censorship",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "AI diagram looks great and nobody will read it",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Major grid operator for Pa., East Coast predicts energy shortfall by mid-2027",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: A constraints based IaC decision tool",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Common Lisp Extension for Zed",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Ask HN: Junior getting lost",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Ask HN: Is archive.is currently broken for WSJ links?",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Ask HN: Books to learn 6502 ASM and the Apple II",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Ask HN: Who do you follow via RSS feed?",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Frigate NVR Critical RCE Vulnerability Severity",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: Transcribee: YouTube transcriber that builds a knowledge base",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: ARC-AGI-3 Toolkit",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: SimpleSVGs – Free Online SVG Optimizer Multiple SVG Files at Once",
+        "reason": "no_ai_keywords_matched"
+      },
+      {
+        "title": "Show HN: vind – A Better Kind (Kubernetes in Docker)",
+        "reason": "no_ai_keywords_matched"
+      }
+    ],
+    "low_relevance": [
+      {
+        "title": "Reflex (YC W23) Senior Software Engineer Infra"
+      },
+      {
+        "title": "Deep dive into Turso, the \"SQLite rewrite in Rust\""
+      },
+      {
+        "title": "Apple buys Israeli startup Q.ai"
+      },
+      {
+        "title": "Benchmarking OpenTelemetry: Can AI trace your failed login?"
+      },
+      {
+        "title": "Vitamin D and Omega-3 have a larger effect on depression than antidepressants"
+      },
+      {
+        "title": "Oban, the job processing framework from Elixir, has come to Python"
+      },
+      {
+        "title": "In 6 violent encounters, evidence contradicts immigration officials' narratives"
+      },
+      {
+        "title": "Tesla is committing automotive suicide"
+      },
+      {
+        "title": "Show HN: Sarab – Expose localhost to the internet using Cloudflare Tunnels"
+      },
+      {
+        "title": "The K-Shaped Future of Software Engineering"
+      },
+      {
+        "title": "The K-Shaped Future of Software Engineering"
+      },
+      {
+        "title": "Ask HN: DDD was a great debugger – what would a modern equivalent look like?"
+      },
+      {
+        "title": "Designing programming languages beyond AI comprehension"
+      },
+      {
+        "title": "Ask HN: What's the Point Anymore?"
+      },
+      {
+        "title": "Ask HN: What recent UX changes make no sense to you?"
+      },
+      {
+        "title": "Ask HN: Notification Overload"
+      },
+      {
+        "title": "How much recurring income do you generate in 2026 and from what?"
+      },
+      {
+        "title": "Where can I find startups looking for fractional product leads?"
+      },
+      {
+        "title": "Ask HN: Where to find cool companies to work for?"
+      },
+      {
+        "title": "Ask HN: European alternative to Vercel/Cloudflare for hosting"
+      },
+      {
+        "title": "The Anti-Pomodoro Technique: Focus on Taking Breaks, Not Watching the Timer"
+      },
+      {
+        "title": "Show HN: VCluster Free – Free K8s Multi-Tenancy with Virtual Clusters"
+      },
+      {
+        "title": "Show HN: Dwm.tmux – a dwm-inspired window manager for tmux"
+      },
+      {
+        "title": "Show HN: SHDL – A minimal hardware description language built from logic gates"
+      },
+      {
+        "title": "Show HN: An Open Source Alternative to Vercel/Render/Netlify"
+      },
+      {
+        "title": "Show HN: Shelvy Books"
+      },
+      {
+        "title": "Show HN: Build Web Automations via Demonstration"
+      },
+      {
+        "title": "Show HN: Built a way to validate ideas with AI personas and Simulated Community"
+      },
+      {
+        "title": "Show HN: Externalized Properties, a modern Java configuration library"
+      },
+      {
+        "title": "First Design Engineer Hire – Build Games at Gym Class (YC W22)"
+      }
+    ],
+    "flamewar": [
+      {
+        "title": "The Hallucination Defense"
+      },
+      {
+        "title": "Tesla ending Models S and X production"
+      }
+    ],
+    "low_quality_hidden": []
+  }
+}

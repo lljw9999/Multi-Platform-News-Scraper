@@ -1,0 +1,122 @@
+[
+  {
+    "id": "2018490368493289766",
+    "text": "RT @sk7037: Our partnership with NVIDIA is foundational. NVIDIA is our most important partner for both training and inference, and our enti…",
+    "created_at": "Tue Feb 03 01:03:00 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 118,
+    "favorite_count": 0
+  },
+  {
+    "id": "2018475750018449615",
+    "text": "Much of today’s scientific tooling has remained unchanged for decades. Prism changes that.\n\n@ALupsasca joins @kevinweil and @vicapow to walk through what it looks like when GPT-5.2 works inside a LaTeX project with full paper context. https://t.co/RjSCwexLpT",
+    "created_at": "Tue Feb 03 00:04:54 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 104,
+    "favorite_count": 955
+  },
+  {
+    "id": "2018424283446342103",
+    "text": "RT @OpenAIDevs: The Codex app is here. Let’s dig in.\n\nJoin @romainhuet, @dkundel, @embirico, @thsottiaux, and @ajambrosino to talk about yo…",
+    "created_at": "Mon Feb 02 20:40:24 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 54,
+    "favorite_count": 0
+  },
+  {
+    "id": "2018385565289267236",
+    "text": "Introducing the Codex app—a powerful command center for building with agents.\n\nNow available on macOS.\n\nhttps://t.co/HW05s2C9Nr",
+    "created_at": "Mon Feb 02 18:06:33 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 1014,
+    "favorite_count": 8179
+  },
+  {
+    "id": "1968395215536042241",
+    "text": "We’ve heard your feedback that GPT-5 Thinking can sometimes take longer than you’d like.  Now Plus, Pro, and Business users can set the pace to match the moment.\n\nSelect GPT-5 with Thinking in ChatGPT on web to toggle thinking time in the message composer.\n\n- Plus, Pro, Business https://t.co/esiks4jy8k",
+    "created_at": "Wed Sep 17 19:22:45 +0000 2025",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 485,
+    "favorite_count": 3980
+  },
+  {
+    "id": "2016959338523611621",
+    "text": "https://t.co/fJxV8cVORd https://t.co/71q5YPcMKD",
+    "created_at": "Thu Jan 29 19:39:14 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 658,
+    "favorite_count": 8769
+  },
+  {
+    "id": "2016209462621831448",
+    "text": "Introducing Prism, a free workspace for scientists to write and collaborate on research, powered by GPT-5.2.\n\nAvailable today to anyone with a ChatGPT personal account: https://t.co/9mTLAbxPdH https://t.co/GJOIipU3hx",
+    "created_at": "Tue Jan 27 17:59:29 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 2341,
+    "favorite_count": 16436
+  },
+  {
+    "id": "2015552679884603453",
+    "text": "RT @sama: Tomorrow we’re hosting a town hall for AI builders at OpenAI. We want feedback as we start building a new generation of tools.\n\nT…",
+    "created_at": "Sun Jan 25 22:29:40 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 681,
+    "favorite_count": 0
+  },
+  {
+    "id": "2014382658990834064",
+    "text": "Meet the Frontier Builders. https://t.co/5PWbj6B2V5",
+    "created_at": "Thu Jan 22 17:00:25 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 103,
+    "favorite_count": 1522
+  },
+  {
+    "id": "2014382672861396999",
+    "text": "@kath_mcmahon and @velvetatom are pushing biological intelligence to new places with @ValthosTech. https://t.co/vlHMHiW14T",
+    "created_at": "Thu Jan 22 17:00:29 +0000 2026",
+    "user": {
+      "id": "4398626122",
+      "username": "OpenAI",
+      "name": "OpenAI"
+    },
+    "retweet_count": 15,
+    "favorite_count": 179
+  }
+]
